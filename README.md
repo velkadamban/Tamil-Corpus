@@ -4,3 +4,5 @@ This nTamil project aims to create a comprehensive and high-quality collection o
 # List of works added to this Repo
 - Tamil Wikipedia articles upto 01.06.2024 (CC BY-SA 4.0)
 - Charles University English-Tamil Parallel Corpus (CC BY-NC-SA 3.0)
+- Oscar 23.01 Tamil Meta Data (CC BY 4.0)
+- Project Madurai (Open to use and Distribute)
