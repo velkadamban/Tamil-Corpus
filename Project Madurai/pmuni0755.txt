@@ -1,0 +1,1993 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Manimekalai by A. Madhavaiah (in tamil script, unicode format)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manimekalai by A Madhavaiah
+
+Tamil Classics for English Readers
+
+In tamil script, unicode/utf-8 format
+
+
+அ. மாதவையாவின் "மணிமேகலை"
+ 
+(ஆங்கில வாசகர்களுக்கு தமிழ் இலக்கியங்கள்)
+
+
+
+
+
+
+
+
+ Acknowledgements: 
+
+Our Sincere thanks go to Tamil Virtual Academy for providing a scanned PDF of this work.
+
+This e-text has been prepared using Google OCR online tool and subsequent proof-reading of the output file.
+
+Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
+
+
+
+
+ © Project Madurai, 1998-2020.
+
+Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
+
+of electronic texts of tamil literary works and to distribute them free on the Internet.
+
+Details of Project Madurai are available at the website
+
+https://www.projectmadurai.org/
+
+You are welcome to freely distribute this file, provided this header page is kept intact.
+
+
+
+
+ Manimekalai by A Madhavaiah
+
+Tamil Classics for English Readers
+
+
+
+
+ Source: 
+ 
+
+Manimekalai
+
+By A. Madhaviah
+
+Tamil Classics for English Readers
+
+With a Foreword by  Dr. S. Krishnaswami Aiyangar
+
+Madras: The Indian Publishing House, Ltd,
+
+1923
+
+Price Rs. One,  
+ All Rights Reserved
+
+----------------
+
+
+ CONTENTS   
+
+Foreword:-By Dr. S. Krishnaswami Aiyangar, 
+
+           ( University Professor of Indian History, Madras. )
+
+Preface 
+
+Proper Names Transliterated 
+
+
+
+
+ I. Introductory 
+XI. The Story of Athirai 
+
+
+II. The Festival of Indra 
+XII. The Story of Kayachandika 
+
+
+III. An Evening in the City 
+XIII. The Prince Pursues His Love 
+
+
+IV. The Meeting in the Grove 
+XIV. Prison-House Turned Home of-Mercy
+
+
+V. The Abode of the Dead 
+XV. The Murder of the Prince 
+
+
+VI. “Night and Morning" 
+XVI. Manimekalai is Imprisoned
+
+
+VII. Manimekalai Learns Her Past 
+XVII. Manincekalai is Released 
+
+
+VIII The Never-Failing Grail 
+XVIII. Manipallavam Revisited 
+
+
+IX. Aravana the Hoary Sage 
+XIX.  “A Tale of two Cities”
+
+
+X. The Episode of Aputhra 
+XX. The End of the Story
+
+
+
+Glossary 
+
+------------------- 
+
+
+  Foreword 
+
+
+As a writer, both in English and Tamil, Mr. Madhaviah needs no introduction. Readable versions of the great classics of Tamil Literature have long been a desideratum, and all efforts to remove the want are worthy of commendation. Among the great classics of Tamil Manimekalai deservedly occupies a high place, having had its praise sung by such a discerning critic of great judgment as Sivaprakasa Swamigal. Silappadhikaram and Manimekalai constitute a twin epic and ought to go together. The authors were friends, and the stories run one into the other. The princely author of the first belonged to the royal house of Vanji, the Chera capital on the West Coast. His friend, the author of the second, was a corn merchant of Madura, the critic par excellence of the “Third Sangam." Though tradition does not in so many words declare that these works went before the Sangam and received its imprimatur, Tamil scholarship is unanimous in regarding these as "Sangam Works," properly so called. Not-withstanding much irrelevant and inconclusive writing, the age of the “Third Sangam” is about the second century after Christ; no valid reason has so far been offered to the contrary.
+
+
+
+Manimekalai is a work of a dramatic-epic character, and has for its subject-matter the renunciation of the heroine. As it treats of this subject it has necessarily to find its setting in contemporary life and thought. While it may be readily taken as a picture of Tamil life in the age of Senguttuvan, its use for purposes of history requires not merely “the insight and imagination" that Lord Morley demands, but a fully developed historic sense which could separate, by sound criticism, the historical grain lying hidden in the chaff of legend and tradition. In qualified hands it provides considerable material for the history of the age, and a few data of an important character for Tamil literary history.
+
+
+
+It is to be hoped that the English version now placed before the public will lead to a wider study of the poem itself, and a better appreciation of its merits.
+
+
+
+Bangalore 29th May '22.        ,       S. KRISHNASWAMI AIYANGAR
+
+----------------
+
+
+ PREFACE 
+
+
+
+MANIMEKALAI is one of “the five great poems" in Tamil. The other four are Jivaka-Chintamani, Chilappadhikaram, Valayapathi and Kundalakesi, of which the last two are not extant. The Tamils owe a lasting debt of gratitude to Pundit Mahamaho-padhyaya Swaminatha Ayyar for his scholarly editions of the remaining three works, among other classics.
+
+
+
+Of the three "great poems” that we now have, Chilappadhikaram and Manimekalai, forming a continuous story, belong to an earlier age, while Chintamani is of a few generations later. But in their atmosphere and leanings, all the three are more Buddhistic than Hindu. The noble rationalism of self-sacrifice, universal compassion and service promulgated by the great Sakya Prince must have then prevailed widely in South India, where it is now almost unknown. As for the contents of these works, they are not historical biographies of the men and women whose lives they profess to narrate, but are rather romances abounding in the supernatural and the miraculous. In saying this I do not forget that the reputed authors of the two earlier poems assure us that they were contemporaries of the events they set forth, one of them being a native of the very city where Kovalan was slain and Kannaki proved the power of her chastity by a miracle, while the other was a prince in the land where, by another miracle, she ascended to Heaven with her husband. Rather I remember how Valmiki too claims to have lived at the time of Rama and to have taken no insignificant part in the incidents of the immortal epic which bears his name. It may be that this was a form of literary convention in those days, a 'trick of the trade' not unknown in other literatures or to our own age. Nor do I forget the fact that several historic personages, whose co-existence has been verified by other and more authentic records, are referred to, or made to figure, in these works. Indeed I do not assert that Kovalan and Kannaki, Manimekalai and Madhavi, never existed and are wholly fictitious, or even that they had no such careers as have been assigned to them by the authors. But I do say that not all the incidents of their lives, set forth in such minuteness of detail, could have happened, and that some of them never did take place.
+
+
+
+Chilappadhikaram differs from Manimekalai in this respect that its main story, up to the point of Kovalan's murder by the king's guards, is quite probable, and miracles step in only later; whereas in Manimekalai, the author resorts to the super-natural almost from the beginning. Such wonders as flying through the air, remaining invisible or changing one's form at will, feeding many people out of a small bowl without replenishing its contents, and stone-images speaking to human beings are the common stock-in-trade of all romances and legends; and they prove nothing more than the faith and credulity of the times. The few true original facts, travelling from mouth to mouth, or perhaps from generation to generation, must have gathered supernatural trappings and miraculous decoration in course of time. Around such a doubtful nucleus the poet's imagination has bodied forth the forms of things unknown, and his iron style, screeching on palm leaves, has given to airy nothings local habitations and names.
+
+
+
+But the life and manners of the people so livingly depicted in these poems stand on a different footing; and, making due allowance for artistic idealization and caricature, they become invaluable records of the state of the country and the lives led by our forefathers some fourteen to eighteen centuries ago. The reader will do well to bear this in mind while studying these classics, and neither swallow the whole as authentic contemporary history nor reject the whole as imagination run wild.
+
+
+
+Besides being comparatively simpler in style than most other poems of the Sangam Age, 'Manimekalai' is by far the most modern in spirit of them all. The ardour for true democracy and social service which pervades it, the transformation of a prison-house into a Home of Mercy which it records, its aggressive and scornful hostility to the system of caste based on birth, and the curious fact that most of the fallen women who figure in it are given Brahmin parentage, -these are some of the features which will surprise and interest the modern reader. But the poem has not much of plot to hold the reader's attention, after the love episode between the heroine and the prince. It revels in the supernatural, and, towards the close, becomes boresome. For this fault and other reasons, a scholar of our day has doubted its reputed authorship, and suggested that “it was probably put together, by a monkish poetaster."
+
+
+
+The author of Manimekalai was Chathanar, a native of Madura. He was known also as Koola-vanigan (grain-trader) Chathanar and Chee-thalai (pus-pate) Chathanar. The former epithet denoted his means of livelihood, while the latter was no small compliment to his fine literary taste and acumen. He was a member of the Academy at Madura, whose privilege it was to hear and appraise literary productions. So jealous was he of the honour of the Muses that he could not bear to see it outraged by pseudo-poets and scribblers, and he knocked himself on the head with his iron style, bewailing his ill luck, whenever he had to listen to verses void of sweetness or sense. And even in those golden days of Tamil literature and in the great Madura Academy, true poetry was so scarce that the abscess, first formed on the crown of Chathanar's head by his repeated knocks, had no rest to heal and he went about with a “pus-pate." It is said that this historic sore healed only when the unique and peerless Thirukkural came before the Academy for adjudgment and was expounded before it for many days running, during which time the “pus-pate” remained undisturbed.
+
+
+
+Manimekalai deserves to be better-known and studied in these days. So it is that I have ventured to place, at the request of the publishers, this popular version of it before the general reader and the student-world. In seasoning the old wine for the new bottle, I have taken some liberty with the original and I have been obliged to keep out a good deal of the dregs to suit modern taste. In many places, however, it has been a pleasure to translate the poem almost word for word and I hope I have nowhere violated its spirit.
+
+
+
+In conclusion, I thank Dr. S. Krishnaswami Aiyangar for his ready kindness in contributing a foreword and Mr. J. H. Cousins for kindly looking over the proofs and offering valuable suggestions. I must not fail to record here my great debt to an English rendering of the poem, more or less literal, which my daughter M. Lakshmi Ammal made for me to lighten my task.
+
+
+
+Madras
+
+29th Nov. '22.        ,          A. MADHAVIAH
+
+------------------
+
+
+
+
+ PROPER NAMES
+ 
+
+
+
+Transliterated, with the originals in Tamil.
+
+
+
+
+ Agasthya அகத்தியன்	           
+  Chembian செம்பியன்  
+
+
+ Agni அக்கினி	
+Cheran Chenguttuvan சேரன் செங்குட்டுவன் 
+
+
+ Ahalya அகலியை
+	Chetty செட்டி 
+
+
+ Amirthapathi அமிர்தபதி	
+Chilappadhikaram சிலப்பதிகாரம் 
+
+
+ Apanchika ஆபஞ்சிகன்	
+Chinta-Devi சிந்தாதேவி 
+
+
+ Aputhra - ஆபுத்திரன்	
+Chitrapathi சித்திராபதி 
+
+
+ Aravana - அறவணன்	
+Chitrapuri சித்திராபுரி 
+
+
+ Arjuna - அருச்சுனன்	
+Chola Desa சோழதேசம் 
+
+
+ Asala - அசலன்
+	Dharma-dhattan தரும தத்தன் 
+
+
+ Asodharam - அசோதரம்
+	Dharma-savaka தரும சாவகன் 
+
+
+ Athirai ஆதிரை	
+Dharma-Vanam தரும வனம் 
+
+
+ Attipathi அத்திபதி	
+Durga துர்க்கை 
+
+
+ Avanti - அவந்தி
+	Dutchaya துச்சயன் 
+
+
+ Bharathan பரதன்	
+Dwipa - Thilaka தீப திலகை 
+
+
+ Bhumi- Chandran பூமி சந்திரன்	
+Ettikumaran எட்டி குமரன் 
+
+
+ Bhuti பூதி
+	Gandhara காந்தாரம் 
+
+
+ Brahma-dharma - பிரம தருமன்	
+Gandharvas கந்தருவர் 
+
+
+ Chakkaravala - giri சக்கரவாளகிரி
+	Gomukhi கோமுகி 
+
+
+ Chakkaravala-kottam சக்கரவாளக் கோட்டம்
+	Gothamai கோதமை 
+
+
+ Chanbai சண்பை	
+Gujjaras குச்சரர் 
+
+
+ Chandra-dhatta சந்திர தத்தன்	
+Indra இந்திரன் 
+
+
+ Cháranás சாரணா
+	Idavayam இடவயம் 
+
+
+ Chathanar சாத்தனார்  
+	Jana-mithran ஜனமித்திரன் 
+
+
+ Chavakas சாவகர்
+	Jivaka Chintamani சீவக சிந்தாமணி 
+
+
+ Cheethalai சீத்தலை  
+	Jumbu - dwipa சம்புத் தீபம் 
+
+
+
+
+
+
+Kesa-Kambala கேச கம்பளன்	  
+Kayankarai காயங்கரை
+
+
+Killi கிள்ளி  
+	Lakshmi இலக்குமி
+
+
+Koola-vánigan கூல வாணிகன்	  
+Lanka இலங்கை
+
+
+Korkai கொற்கை	  
+Madhavi மாதவி
+
+
+Kovalan கோவலன்	  
+Madura மதுரை
+
+
+Kowsikan கௌசிகன்	  
+Madurapathy மதுராபதி
+
+
+Kundalakesi குணடல கேசி	  
+Maghada மகத
+
+
+Kakanthan ககந்தன்  
+	Maha-Bali wown wal, மாவலி
+
+
+Kakanthi காகநதி	  
+Maha - meru மஹாமேரு
+
+
+Kali காளி	  
+Manaikan மாநாய்கன்
+
+
+Kalinga கலிங்கம்  
+	Manimekala-Devi மணிமேகலா தேவி
+
+
+Kama காமன்	  
+மணிமேகலா தெய்வம்
+
+
+Kanaka கனகன்  
+	Manimekalai மணிமேகலை
+
+
+Kanchana காஞ்சனன்  
+	Manipallavam மணிபல்லவம்
+
+
+Kanchanapuram காஞ்சனபுரம்	  
+Maruda - vehan மாருத வேகன்
+
+
+Kayankarai காயங்கரை  
+	Marudhi மருதி
+
+
+Kanchi காஞ்சி	  
+Másáthuván - மாசாத்துவான்
+
+
+Kannaki கண்ணகி  
+	Mavan-killi மாவண் கிளவி
+
+
+Kanthan காந்தன்	  
+Maya மயன்
+
+
+Kapilapuram கபிலபுரம்  
+	Mohini மோஹினி
+
+
+Kapilai கபிலை	  
+Munmukha மண்முகன்
+
+
+Karikalan கரிகாலன்	  
+Muruga முருகன்
+
+
+Kaveran கவேரன்	  
+Nága-nádu நாகநாடு
+
+
+Kaveri காவேரி, காவிரி  
+	Nagapuram நாகபுரம்
+
+
+Kávèripatnam காவேரி பட்டணம்,
+ காவிரிப்பூம் பட்டினம் 
+ Nágás, Nákás நாகர்
+ Nedum Chezhyan நெடுஞ்செழியன்
+
+
+Kayachandika காயசண்டிகை  
+	Neelapatlii நீலபதி
+
+
+ 
+
+
+
+
+Pandyan - பாண்டியன்  
+	Thiruvalluvar திருவள்ளுவர்
+
+
+Parasuraman பரசுராமன்  
+	Udhaya-kumaran உதய குமாரன்
+
+
+Peeli - Valai பீலிவளை  
+	Upavanam உபவனம்
+
+
+Podhya பொதிய	  
+Vaikai வைகை
+
+
+Poompukar பூம்புகார்  
+	Vasakh வைசாகம்
+
+
+Punnya-rajan புண்ணிய ராஜன்  
+	Vaisya வைசிய
+
+
+Raghulan இராகுலன்	  
+Valai-vanan வளைவணன்
+
+
+Rama இராமன்	  
+Valayapathi வளையாபதி
+
+
+Ratna-dwipam இரத்தின தீபம்  
+	Valmiki வான்மீகி
+
+
+Ravivarman இரவிவன்மன  
+	Vanji வஞ்சி
+
+
+Sadhu-chakra சாதுசக்கரன்  
+	Vasa-mailai வாசமயிலை
+
+
+Sadhuvan சாதுவன் 
+	Vasantha-málai வசந்தமாலை, வயந்த மாலை
+
+
+Sakya சாக்கிய  
+ 
+
+
+Sali சாலி	 
+Vasanthavai வாசந்தவை
+
+
+Sampapathy சம்பாபதி 
+	Vaisishta வசிட்டன
+
+
+Sampathy சம்பாதி	 
+Vasu வாசு
+
+
+Sangadharman சங்க தருமன் 
+	Vayanangode வயனங் கோடு
+
+
+Sanghaman சங்கமன் 
+	Veerai வீரை
+
+
+Sarngalan சாரங்கலன் 
+	Vrinji விரிஞ்சி
+
+
+Srirangam ஸ்ரீரங்கம், சீரங்கம்	 
+Vrischikan விருச்சிகன்
+
+
+Srungi சிருங்கி	 
+Viswamitra விசுவாமித்திரனா
+
+
+Suthamathi சுதமதி	 
+Virata விராட
+
+
+Seerthi சீர்த்தி	 
+Visakha விசாகம்
+
+
+Singapuram சிங்கபுரம்	 
+Visakai விசாகை
+
+
+Siva சிவன் 
+	Vindhya விந்திய
+
+
+Sridhara ஸ்ரீதரன், சீதரன்	 
+Yama யமன்
+
+
+Tharai தாரை 
+	Yavana யவன
+
+
+Thildttama திலோத்தமை	 
+
+
+
+--------------------
+
+
+ Manimekalai
+   Chapter 1- Introductory
+
+
+“ Assyria, Greece, Rome, Carthage, where are they "
+
+
+
+“A LOTUS among flowers is the Land of the Cholas among the lands of the earth.” So sang proudly a Tamil poet. And the Tanjore district, which formed the backbone of the ancient Chola-Desa, is still one of the richest and most fertile tracts in all India. It owes this prosperity mainly to the waters of the river Kaveri, which irrigate its fields and transform a flat and uninteresting plain into a Garden of Eden.
+
+
+
+Near where the Kaveri empties itself into the sea, there now stands the village of Kaveri patnam. The ravages of time and tide have reduced it to its present insignificant condition; but in the olden days it was a great and flourishing seaport and a capital of the Chola kingdom. It was then known as Poompukar, and shone among the cities of the world as a famous emporium of trade and seat of civilization. Ships laden with rich and various cargo from many lands, far and near, visited its harbour regularly; and merchants, artisans and craftsmen, speaking many a strange tongue, were to be seen within its walls. The city itself was of great extent and well lay out. Parks, flower-gardens and tanks innumerable ; palaces, mansions and pagodas; gymnasiums, theatres and music-halls ; factories and market places; monasteries, alms-houses and hospitals; schools, colleges and lecture-halls, abounded there on every side and adorned its magnificent streets and squares; nor was there an art, craft or science, known to Aryan or Dravidian civilization, which it did not cultivate. The Government was a monarchy, tempered by the good-will of the people; and the king had to conform to a rigorous code of justice and honour to preserve the fair name of his house untarnished. Hinduism was the prevailing religion, and Indra and Siva the most popular deities; but Jainism and Buddhism also flourished unmolested by its side, and were much in favour at the time of our story. Christianity had not yet reached the shores of India, and the Prophet of Arabia was still unborn. Such was Kaveripatnam, or Poompukar, the capital of the Cholas, some fifty, or sixty generations ago.
+
+
+
+In those days there lived in Kaveripatnam a rich merchant of the Vaisya caste, by name Masathuvan. He had a son, Kovalan, and he married him to the young and beautiful Kannaki, daughter of another rich merchant, Manaikan.
+
+
+
+This young couple loved each other fondly and lived happily together for some years. But one day, Kovalan chanced to meet Madhavi, a most beautiful and accomplished actress and dancer, and fell in love with her. From that day onward he neglected his wife and began to live with Madhavi and to spend his time and wealth on her. Unlike other women of her class, she too loved him truly and was faithful to him.
+
+
+
+The heroine of our story, Manimekalai, was the fruit of this happy but irregular union. Manimekalai, as she grew apace, promised to become even more beautiful than her mother. She was carefully trained in all the arts and accomplishments of her caste, and became an adept in them. Chitrapathi, the mother of Madhavi, who was dissatisfied with her own daughter for leading a chaste life with one man, took much trouble in training Manimekalai and vowed within herself that her career at least should be different. After some years, the lovers quarrelled one day, doubting each other's constancy, and Kovalan left Madhavi and returned to his own house, sad and dejected. His wife, Kannaki, welcomed him with soft and loving words and strove to soothe his sorrow and make him happy. Such conduct on the part of his long-neglected and injured wife affected Kovalan deeply, and he expressed to her, in humble and hesitating words, his grief, shame and remorse. Kannaki thought that Madhavi had sent away her husband because he had no more money to give her, and that he was grieved on that account. So she told him that she still possessed a pair of golden anklets, given to her by her father, which were of great value, and she begged him to do with them as he pleased. These words of true and selfless affection touched Kovalan's heart, and his remorse for his past unworthy conduct was keener than ever. He embraced his wife tenderly, praised her nobleness, and vowed that he would never more leave her. He was, however, ashamed to live any longer in the city where they were both well-known and where he had squandered all his ancestral wealth. So he proposed to quit Kaveripatnam at once with her and go to distant Madura, where he could begin a new career in life as a merchant and become wealthy again. The value of the anklets would be enough capital for him to begin with. This proposal pleased Kannaki and she readily agreed. In the last watch of the same night, therefore, and without apprising any of their relatives of their intention, Kovalan and Kannaki left Kaveripatnam, and wended their way westward along the northern bank of the river.
+
+
+
+The country between Kaveripatnam and Madura was mostly wild and jungly in those days, and many were the hardships experienced by our high-born and softly-nurtured travellers. They crossed the river at Srirangam and then travelled towards Madura. On the way, a Brahman messenger, sent by Madhavi, over took Kovalan and gave him a letter from her complaining bitterly of his abandoning her and beseeching him to return. The Brahman also informed Kovalan of the great grief of his parents at his voluntary exile. Kovalan sent suitable replies to them all through the Brahman, explaining his reasons for quitting his native city, and then proceeded on his way to Madura with his wife and some fellow-travellers.
+
+
+
+They reached the outskirts of the Pandyan capital one evening and stayed for the night in a monastery. The next morning Kovalan left his wife in the house of a shepherdess and went into the city himself, taking with him one of her anklets to sell. As the ornament was valuable and such as could be purchased only by princes, he sought the help of the king's goldsmith to sell it. This man was a dishonest scoundrel, and he had just then misappropriated to him a similar anklet made for the queen. He therefore thought it a good opportunity to hide his own dishonesty by making a scapegoat of Kovalan. Eventually, by the goldsmith's misrepresentation and the king's thoughtlessness, Kovalan was slain by the palace guards as a thief.
+
+
+
+When the news of her husband's cruel murder reached Kannaki, her grief and rage knew no bounds. Wild and disconsolate, she went direct to the king, and in order to prove to him his own injustice and her husband's innocence, she demanded to know what had been placed inside the hollow of the queen's anklet to make it jingle in walking. The Pandyan king, Nedum Chezhyan, replied that the queen's stolen anklet had pearls within. Kannaki said that her own anklet had rubies inside and asked the king to send for the anklet which had been taken from her husband. When it was brought, she broke it open, and small rubies fell out of it. The king was thus convinced that he had unjustly ordered Kovalan to be slain as a thief; and bewailing his own thoughtlessness and the great slur he had thereby brought on his blameless house, he fell down from his throne and died. Kannaki's just wrath, however, was not appeased till she gave up the city of Madura to the flames by virtue of her chastity.
+
+
+
+Kannaki then left Madura, and walking up the bank of the Vaikai river reached the Western Ghats. There, on the fourteenth day after his slaughter, and on a hill known as the 'Red Hill,' her husband, Kovalan, appeared to her in an ærial car, and she mounted it and reached swarga with him.
+
+
+
+The hill men who witnessed this miracle went and reported it to their king, Cheran Chenguttuvan. The king marvelled much at what he heard, and at the request of his queen he built a temple to Kannaki and installed in it an image of her to be worshipped as the Goddess of Chastity.
+
+
+
+The news of Kovalan's cruel murder, the burning of Madura, and the passing of Kannaki into Heaven with him, reached Kaveripatnam in course of time, and great was the grief of their parents on hearing it. Madhavi and Manimekalai were inconsolable, and Madhavi put on widow's weeds and became a recluse doing humble service in a Buddhist monastery.
+
+
+
+Manimekalai was now a most beautiful and accomplished maiden, without a peer among the dancing-actresses of Kaveripatnam. But though she had studied and mastered the arts and undergone the training necessary for her profession, as desired by her mother and grandmother, her own heart had never been in it. Thoughtful, serious and compassionate by nature, she inclined always to a religious life, and the precepts and example of the Lord Buddha exercised a great fascination on her mind. On hearing of the cruel murder of her dear father, Kovalan, and of the miraculous passing away of Kannaki, whom she loved as a second mother, she was stunned by grief. But as she gradually recovered, she became more than ever impressed with the transitory and uncertain nature of this life and its pleasures, and confirmed in her natural aversion for the profession of her caste. So with her mother's ready consent, she gave it up forever, and lived with her in the monastery.
+
+Such was the state of affairs with our heroine and her mother at the beginning of our story.
+
+-----------------
+
+
+  Chapter II : The Festival of Indra  
+
+
+
+“They say let them say."
+
+
+
+IN those early days, the Vedic God, Indra, had temples and altars dedicated to his worship. There was a legend of the time of King Chembian of the Golden Armlet, that Indra was the special guardian of Kaveripatnam and that the city would be swallowed up by the ocean if his worship was neglected. Therefore a festival lasting for eight and twenty days was held periodically in his honour.
+
+
+
+Our story begins with such a festival at Kaveripatnam.
+
+
+
+The leading men of the city, consisting of the learned professors of philosophy, logic, ethics, theology, and astronomy; the aliens from distant lands, speaking strange languages; the ministers, priests, generals, ambassadors and spies of the State, and the various officers of the royal household, assembled together and resolved to celebrate the festival in honour of Indra, the source of all kingly power and prosperity on earth, lest otherwise the guardian spirits of the city should become, wrathful and destroy them.
+
+
+
+The festive drum, which was kept in the temple dedicated to Indra's sword, was taken out and mounted on the massive neck of the girdled elephant, which then set forth into the streets, surrounded in pomp by all the four limbs of the army, elephants, cavalry and soldiers. It was a huge drum made of bull-hide, and it could thunder forth its summons to Yama himself on the bloody field of battle. But now it was used for a festive purpose, and the hereditary herald of the city, whose ancient birthright it was to play upon it, sounded a flourish with the short drum-sticks and then proclaimed aloud the following:
+
+
+
+“May this wealthy and ancient city prosper forever! May it rain on earth three times every month! May the king's sceptre be ever just and straight, so that the spheres may not stray from their right paths in the heavens! Be it known unto all, that, as the learned elders assure us, Indra and all the host of heaven will gladly come and live in our midst during the four weeks of this festival. So let the festooned streets and the stately porticos be lined with auspicious pots of water, golden bowls of seedlings, and statuette-lamps innumerable Plant along the highways and byways of the city sugar-canes, areca-palms and plantain-trees in full fruit, and other green creepers and trees. Adorn with strings of pearls the gilded pillars on the raised pials of the houses. Remove the old sand from the streets and squares of the festive city and spread new sand everywhere. Let all doorways, balconies and roofs wave gaily with bright and many-coloured banners and flags. Let the Brahmans, well-versed in the different kinds of ritual, perform them duly in honour of all the gods and goddesses within the city, from the great God Siva to the guardian-spirit of the streets. Let the learned among you discourse to the people on religious truths, in the cool and sand-floored pavilions and in the shady groves. Let theologians discuss and dispute on their respective creeds and doctrines in the halls of debate. And let men and women refrain from anger and feud even against their enemies; for, as you all know well, this is the time when, for a period of four weeks, the devas will walk and mix freely with men on the white sand-dunes, in the fair and spacious groves, on the cool and sandy islets in the bed of the river and on the deep and shady bathing ghats.
+
+
+
+May hunger, sickness and hatred cease,
+
+And rains and wealth for ever increase!"
+
+
+
+Thus was the festival of Indra proclaimed by the herald in the streets and alleys of the city and gladly observed by all.
+
+
+
+But Chitrapathi was overwhelmed with sorrow at the absence of Madhavi and Manimekalai from the festivities. She started off to go to her daughter, Madhavi, but, on reflection, refrained from doing so, and sent her daughter's friend, Vasantha-malai, to inform Madhavi of what the people openly said of her in the city. Vasantha-malai herself had long grieved inwardly over her friend's seclusion and penance. So she readily undertook the mission and went to the bower where Madhavi and Manimekalai sat making garlands of fresh for divine service. She was shocked to see how penance and fasting had already wasted Madhavi's delicate frame, and she addressed her in these words :-"Hear me, O beautiful one, listen to what has happened. Do you owe this city any grudge? Many are the accomplishments necessary for us dancing actresses. We have to know how to dance and act in the royal court and before the general public; how to sing different kinds of songs and play different tunes on the lute in perfect melody and time, and how to play on the small drum and the low, sweet flute. A thorough knowledge of ball-play, cookery, the secrets of the toilette and the preparation of different cosmetics; swimming and frolicking in water; the decoration of the bed ; skill in reading the thoughts of others and pleasing them by winning speech and manner suited to the occasion; the art of acting and dissembling; proficiency in drawing, painting and bead work and in making flower-garlands; aye, a knowledge of even astrology and the ultimate conclusions of the sciences, all these are part of our education and training. The people with one voice call it a shame, therefore, that you, who have mastered these arts and accomplishments and excel all of us in them, should take to a life of penance in this manner. It is not proper, they say; and the jeers of the city about your conduct are not pleasant, but shameful and insulting, to hear.”
+
+
+
+Then Madhavi said to her in reply: “ It is not to-day, my friend, that I have lost the good opinion of this ancient city or become dead to all sense of shame. When I heard of the cruel murder of my lover and still lived on, even that moment my name and fame were gone forever. When her husband dies the wife pants and breathes hard for a while, like a flaming furnace, and then gives up her life. If not, she enters the blazing funeral pyre with him joy fully, as if she were stepping into a cool tank. If not, again, she tortures her body with fasts and penances to secure reunion with her lord in her next birth. These are the ways of chaste wives in this world. But Kannaki, my sister, she did none of these things. Unable to bear the dire calamity that befell her husband, she rushed forth, with streaming eyes and dishevelled hair, and devoted the city of the unjust king to the flames by virtue of her chastity. Manimekalai is the daughter of that chaste heroine. She is therefore fit only for a life of penance and righteousness and not for evil ways and an unholy life. Hear me one thing besides, my friend: I entered the abode of these Buddhist monks in the agony of my heart, and throwing myself at the feet of their abbot, the saintly and learned sage Aravana, I told him of the cruel murder of my lover and of my own great misery.
+
+
+
+“ ‘Sorrow without bounds is the heritage of all who are born’, he replied, and boundless bliss, of those who are free from births; the former is the fruit of earthly desires and passions and the latter of release from them. He taught me this truth and how to avoid the five deadly sins and mercifully showed me the path of righteousness which leads to salvation. Go then, and tell this to my mother and to my other friends, and let the people say what they please."
+
+
+
+Vasanthamalai heard her friend in despair ; and departed, dazed like one who had lost a rare and priceless diamond in the tempestuous waves of the mighty ocean.
+
+--------------
+
+
+ Chapter III : An Evening in the City
+
+
+”Forth fared they by the common way a-foot,
+
+Seeing the glad and sad things of the town”
+
+
+
+AT the right moment of blossoming, the fragrance of the flower comes out; and this sad reply of Madhavi to her friend, Vasanthamalai, was the beginning of the working out of Manimekalai's appointed destiny on earth. The tale of the cruel fate that befell her beloved parents still scorched her ears like fire and pierced her loving heart; and hot tears flowed freely from her beautiful eyes, wetting and soiling the garland of fragrant flowers and glossy leaves which she was knitting. Madhavi observed this, and gently wiping her daughter's tears, said, “This garland has lost its purity, my child, and is therefore unfit for divine service. Go you, now, and bring fresh flowers."
+
+
+
+There was another woman, by name Suthamathi, who was also making garlands in the same bower as Manimekalai. She heard these words of Madhavi and objected. She said: “Manimekalai is now stricken with inconsolable grief for the dire calamity that has overtaken her parents; yet is she still so beautiful that should Kama himself haply see now her moon-like face and lovely, tearful eyes, he would lay down his arms and heave his heart in love. What then would be the fate of common men when they behold her? Further, there is another point to be considered, and my own story will not be out of place here. I shall tell you how I came to this city. I am the only daughter of a Brahman named Kowsikan, whose native place is Chanbai, a prosperous seaport. I was culling flowers in the garden one day all alone, and too innocent to fear any danger. A gandharva who was passing along towards this city to take part in the festival of Indra, noticed me and my loneliness. His form was of divine beauty, not seen on earth, and worthy to be adored; and he wore garlands of flowers and ornaments of gold. He caught hold of me and carried me off with him through the air, and I became his for a time. Then he left me here and vanished in the twinkling of an eye, though his own home is far away. This beautiful Manimekalai, therefore, is not fit to go out alone to cull flowers. Then, we have to decide where she could safely go. The park beyond the tank with the water engine abounds in many
+
+kinds of flowers, but men of the royal bodyguard are always there. The palace garden is reserved for the devas during the auspicious days of Indra's festival; even the bees do not gather honey there now, the trees bear wreaths of never-fading flowers, and watchful demons guard the place. The grove dedicated to Sampathy, the vulture who went too near the sun and had his wings burnt, and the wood wherein Kaveran, the father of the perennial river Kaveri, lived in penance, are both places haunted by evil spirits from olden times and therefore avoided by wise folk. But there is another garden, the Upavanam. Many kinds of trees blossom there by the gracious command of the Lord of Compassion, whose one law of life is love and service to all living beings. In the midst of that grove there is a crystal chamber which emits no sound from within, but reflects the image of whatever is contained inside.
+
+And in that chamber stands a seat shaped like the lotus set with precious stones of the purest lustre and bearing the imprint of Lord Buddha's holy feet. Flower-buds placed upon that seat blossom forth at once, and full-blown flowers wither not, even after many years; nor do bees go near them there. And listen, Madhavi: I forgot to tell you of another wonderful virtue of that lotus-seat. If you place a flower upon it, dedicating it in your mind to some particular god in the pantheon, that flower will forth with disappear and reach the feet of that same deity. If, however, you think of no one while placing the flower on the seat, it will remain there only. The reason is this: Maya, the architect of the gods, wrought this wonderful seat of old to prove the great truth that thought or motive, and not mere outward action, counts most in our life. This Upavanam is the only place where your daughter, Manimekalai, can go now; and if you please, I too shall accompany her.”
+
+
+
+Madhavi approved of this, and Manimekalai and Suthamathi left the bower and stepped out into the main car-street of the city. Varied and amusing were some of the scenes which they saw as they walked along the streets that evening.
+
+
+
+Here was a Jain friar coming, with a small swing in one hand containing his water-bowl and a tin can in the other. He had long since given up shame and clothing, and his famished, unwashed body was covered all over with dust like the body of a sick elephant. His heart overflowed with pity for all living beings, and he was painfully anxious at each step he took lest he should unwittingly hurt even the minutest form of life not seen by his eyes. After him followed a drunken sot, with a bowl of fermented toddy in his hands, importuning the pious man to drink of it. “Hail ! Holy Sir," shouted the drunkard, “I salute your blessed feet and crave your reverence to listen to what I say. Pent up within a filthy frame, your soul suffers now as in a stifling dungeon. But my chief has taught me the secret of endless happiness in this life and the next, and I long to share it with your reverence. Is there any killing, tell me, o lord of true penance, in drawing the rich, ripe juice from the lusty spathe of the cocoanut palm? Then drink of this deeply but once, I pray you, and test its magical effect. If I speak false, you may then eschew this drink and me alike."
+
+
+
+In another place was a mad man, wearing garlands of red oleander blossoms wound about his arms and with wreaths of the round budded erukka flowers round his neck. His dress was a patchwork of rags, leaves and twigs, and his body was smeared all over with white ashes and sandal paste. He babbled meaningless words to one and all there; he wept, he fell down, he shouted, he called aloud, he joined his palms in the posture of adoration, rose up, whirled around, ran forward and backward, moved to one side, and fought with his own shadow. A crowd of people stood watching the piteous antics of this wretch with helpless sympathy and sorrow.
+
+
+
+There was a show in another part of the street, and a large gathering stood there looking at a hermaphrodite, curiously endowed by nature and artfully and attractively dressed up in all the charms of a beautiful young woman. Strangers to that ancient and tumultuous city often paused on their way through the streets to gaze with admiration on the fascinating pictures of the perfect forms of the devas and of all other forms of life, painted by experts on the whitewashed walls of the stately, brick built mansions on either side. Here and there were women wearing golden bracelets, who had their children with them, and gilded toy chariots drawn by toy-elephants. These little children wore necklets of precious stones and beads strung in gold. They had white mustard on their oiled curls to ward off evil influences, and their hair was done up with triple chains of pearls, which hung down their pretty foreheads, arched like the young moon. Their gay dresses were hopelessly deranged and mixed up with their bright beaded waist bands, so that they did not cover their bodies decently. Their speech was a prattle, and when they babbled, the moisture trickled from their rosy mouths, wetting the five-fold talis manic pendants hanging on their breasts. And so many were the bright ornaments they wore that their unsteady steps could hardly bear the burden. The women raised these children on to the backs of the elephants in the chariots, and holding them there, gaily called on the passers-by to witness the beginning of the festival of Muruga, the son of Siva.
+
+
+
+When all these sightseers and other passers-by in the streets saw Manimekalai, they turned and pressed round her, even as the merry people of Virata's great city surrounded Arjuna in crowds when he appeared in their midst in disguise. Many of them pitied her : “Cruel, indeed, must be the mother," said they, “ who can subject such a beautiful form to a religious life of penance. If this maiden should enter a garden to gather flowers, will not the swans there be put to shame by her pretty walk? Will not the peacocks flock to her to observe and learn the grace of her gait ?” So talked the people among themselves, regretting and condemning Madhavi's action in making a novitiate of her daughter.
+
+
+
+Meanwhile, Manimekalai walked on with Suthamathi, and she stepped so lightly that her soft, tender feet seemed hardly to touch the ground. They soon reached the densely wooded grove Upavanam, which with its in numerable different kinds of trees, shrubs and creepers, and with thick and multi-hued foliage and flowers, looked as though a bright and gorgeous mantle, cunningly wrought and painted by master-artists, had been thrown over it.
+
+
+
+Suthamathi bowed to the guardian spirit of the place in reverence and pointed out the grove to Manimekalai ; and then they both entered it to cull flowers.
+
+-----------------
+
+
+Chapter IV : The Meeting in the Grove 
+
+
+“Can it be
+
+That the dim memory of events long past,
+
+Or friendships formed in other states of being
+
+Flits like a passing shadow o'er the spirit?"
+
+
+
+“LO the green grove whose thick branches keep out, as with a dark canopy, the bright host of the sun's rays! Listen to the murmuring of innumerable bees, which reminds one of the soft music of the flute and the lute. The bulbuls can enter here, but not the light of the sun; and hark, how they now sing in concert. See! the monkeys sit around and watch the dance of the peacock. Here is a pond of water, clear as crystal, with a royal swan sitting enthroned in its midst on a beautiful lotus. Another peacock is dancing there on the bank and a cuckoo is calling to it from a branch. Hark to the cry of the water-fowl that sounds like the flourish of a drum. Look at this magnificent lotus on which the flower of the agave, growing on the bank, has shed its white pollen in abundance. It seems not unlike your own beautiful ace, soiled by the dust of the streets. The sudden leaping of the carp on the lotus I may compare to the quick gesture of your hands, as you try to drive away the bees which evidently mistake your face for a flower. And see how the pretty king-fishers dart down swiftly and then slowly fly away, disappointed of their prey."
+
+
+
+Thus Suthamathi pointed out the beauties of the grove to our heroine.
+
+
+
+Meanwhile, an elephant of the royal stables had suddenly gone mad and broken loose from his trainers and mahout. He ranged wildly along the main streets and bazaars of the city, wherever his fury led him, even as a ship whose masts are broken, sail-ropes cut loose, sails torn, ribs shattered and rudder out of gear, tosses about on the waves of the sea, as the fury of the wind drives her. The mad brute remained in no one place, but wiping with his trunk the deep wound on his face made by the mahout's pricks, he roamed about at will, causing havoc wherever he went and striking terror into the hearts of all. The trainers, the drummers and the poor people of the city cried out for help in distress, and vultures followed the brute, hovering in the sky and screaming aloud.
+
+
+
+Hearing the news, the gallant Prince, Udhaya-kumaran, set out at once on horseback in search of the elephant. He soon came upon him, overpowered and tamed his fury and captured him. Then the Prince mounted a royal chariot and was returning to his palace in triumph, amidst the joyous acclamations of the people, when he passed along the street in which the courtesans lived. On the upper floor of one of the houses there the Prince saw through the gilded archway of the window in the balcony, a young Chetty of his acquaintance, by name Ettikumaran, leaning on a couch of flowers. There was a lute in his hands, and his youthful sweetheart was sitting by his side; but for all that, he seemed utterly distracted, and looked a picture of woe.
+
+
+
+“What ails you, my friend ? " called out the Prince to Ettikumaran through the window, “Why look you so sad when you should rather be jolly, with your love beside you ?”
+
+
+
+On hearing this, Ettikumaran came down to the Prince with his lady, saluted him, and after praising his prowess in capturing the mad elephant, said in reply to his query: “As I was sitting there, I saw Manimekalai, the daughter of Madhavi, just now, pass along the street towards the Upavanam to gather flowers. Her beauty was faded like a flower kept long in a small closed case. On seeing her, I was reminded of Kovalan's cruel fate; and at once my heart was overcome by sorrow, and my fingers strayed on the lute-strings and made discord in the music. This is the reason of my sadness.”
+
+
+
+The Prince heard this explanation with a glad heart, and telling his friend that he would soon return there, bringing Manimekalai with him, turned back his chariot towards the grove. Like the moon tearing her way through fleeting clouds, the Prince's chariot sped through the crowded streets and reached the gates of the grove.
+
+
+
+Hearing the approach of the Prince's chariot, Manimekalai said to Suthamathi in alarm: “I have heard my grandmother, Chitrapathi and Vasantha-malai tell my mother one day that Prince Udhaya-kumaran has set his heart on me. I fear that this is the sound of his chariot. What shall I do?"
+
+
+
+Suthamathi started like a frightened peacock at these words of our heroine. She at once hurried her into the crystal chamber in the grove, and made her fasten the bolt inside. Then she stationed herself at a distance of five bow-lengths from the chamber and waited to see what would happen. The Prince stopped his chariot and retinue at the gate and entered the flower-garden alone. He came forward, searching with eager eyes the alleys, avenues and thickets of the place, and the shady grove brightened as if the sun had suddenly risen within it. When the Prince came to where Suthamathi was standing, he accosted her in these words:
+
+
+
+“I know who you are from the way you stand here in this lonely place. Has your beautiful young friend a mind to pity the sufferings of a passionate lover? Does her heart know aught of love yet, and is she ripe enough to understand its nature? Why has Manimekalai left the precincts of the monastery and come here like this? Tell me."
+
+
+
+On hearing these words Suthamathi trembled like one cornered in a room out of which there is no escape, and replied :
+
+
+
+“Hail Prince! You spring from the lineage of the wise king, Karikalan, who, fearing that suitors would not have any regard for the words of one so youthful, put on the semblance of grey age and delivered famous judgments. There is no need, therefore, for women to talk of wisdom and self-control and kingly duty to such a prince. Still, let me say one word to you. Hear me, valiant Prince. The human body is the fruit of one's karma in former lives, and it generates more karma in this life. Left to itself, without sandal paste, flowers and other scents, it is vile. It ages and dies, and it is the abode of dire diseases. It is the seat of desire and a receptacle of sin. Wrath lives in it like a serpent in its hole. The mind which has its lair in it now grieves, now despairs, now faints, now wails aloud. Know, Prince, that such is the true nature of the human body, and despise all temptations of the flesh.”
+
+
+
+Before her wise speech could sink into his mind the Prince saw Manimekalai's beautiful image reflected from within the crystal apartment. The form reflected on the glassy surface and seen by the Prince was of divine transcendent beauty like Mohini's, and such as to inspire love in the eyes of all beholders. For a moment the Prince thought that it was a picture painted on the crystal surface, and was lost in admiration of the skill of the artist. Then he realised that it was, indeed, the form of her he loved, and he eagerly passed his hands all over the crystal wall to find an opening, but in vain. He turned to Suthamathi and said: “I see the beautiful image reflected everywhere on the crystal surface. Tell me, I pray you, where your fair friend is hiding and tell me also of her nature."
+
+
+
+"Prince!" answered Suthamathi, “ You look indeed as handsome and brave as the God Muruga; but if she cares not for your youthful beauty, I warn you, she is one predestined to a pious life. She has the power of cursing, and a steadfast heart beyond even the might of love to move."
+
+
+
+Can the banks avail when the mighty floods overflow irresistibly? Or steadfastness of mind, when love grows strong and takes the heart by storm ?" retorted the love-sick Prince. “Let her be as chaste as she will; only let her become mine."
+
+
+
+Then he continued: “Tell me this at least. There was a wide-spread rumour in the city that you were brought to a monastery and abandoned there by a gandharva. How is it that you have left that place and are here now with Manimekalai."
+
+
+
+"Hail, Prince !” replied Suthamathi, “May your garland never fade! May your mind never harbour evil thoughts! Listen to the cause that brought me here with her. My mother, a strong-minded woman, was dead ; and my father, an old Brahmin widower, spent his days in fasts and penance and in tending the sacrificial fire which causes the rains on earth. As a result of my former karma, I became the victim of an irregular union, and left my father. He could not bear my separation from him, and in company with other pilgrims he travelled towards Cape Comorin in search of me. One day, in the course of his journey, while he was returning with other Brahmans of the North after a bath at the holy spot where the Kaveri mingles with the sea, he met me in the streets of this city accidentally. 'My daughter! How came you here?' he cried out, and wept tears of joy over me. He loved me dearly, and though I was then unfit to stay with holy Brahmans, he would not forsake me. So he begged his food in the streets and lived here to be near me. One day, while he was going his daily round for alms, a cow attacked and disembowelled him. Holding the bleeding bowels in his hands, like a garland of red oleander flowers, and unable to bear the pain, he came to the Jain monastery, hoping to meet with help where his daughter had already found a refuge. He cried to the Jain monks to pity and succour him, but the holy men angrily turned both of us out, as unfit to remain there. Weeping we stood in another street, and cried to the passersby: “We are helpless: will any good folk help us in our dire need?" Then a Buddhist monk, who was begging from door to door in that street of lofty mansions, bowl in hand, relieved our mortal pain. His robe was of a golden hue, and his gentle face was comforting like the moon to those who suffer from extreme heat. He looked on us with love and compassion, and he filled our ears and hearts with gladness by his kind speech. Handing his alms-bowl to me, he gently took up my father in his arms, carried him into the Buddhist monastery, and tended him there. He, the sage Sanghadharman, told me of the Lord Buddha's teaching. And now my tongue knows no other office than to praise the Lord my King, who was goodness itself; He who, knowing all the ways of the world, lived for others only; He who sought to compass the happiness of all living beings by unfolding the doctrine of righteousness and love. May his blessings be on you, Prince !”
+
+
+
+When Suthamathi ended her speech, the Prince was convinced that he could expect no help from her; and saying that he would obtain Manimekalai through Chitrapathi, he left the grove and went home.
+
+
+
+When the Prince was gone, Manimekalai came out of the crystal chamber and stood before her friend, her large eyes fixed in a strange gaze of love and wonder. After a moment's silence she said to Suthamathi: “He thought that I was without chastity, honour, and the protection of caste,-one to be bought with money. He despised me even while he desired me. Still, my friend, knowing all this, I feel far from being angry with him, and my heart is drawn towards this stranger ! Is this, in sooth, the nature of 'love'? If so, let love perish!"
+
+--------------------
+
+
+Chapter V : The Abode of the Dead 
+
+
+“ The boast of Heraldry, the pomp of Power,
+
+And all that Beauty, all that Wealth e'er gave,
+
+Awaits alike the inevitable hour,
+
+The paths of Glory lead but to the grave "
+
+
+
+While Manimekalai and Suthamathi thus stood talking in front of the crystal chamber, Manimekala-Devi, the guardian-spirit of the island of Manipallavam, who was attending Indra's festival, came in the form of a maiden of the city to worship the sacred lotus-seat. She reverently circled in the air round the chamber and praised the Lord of Compassion in fervent and glowing words.
+
+
+
+By this time the sun had set, and the moon rose in the east, making the great and magnificent city look still more picturesque and beautiful. In the grove, the lotus flowers slowly folded their petals; and the swans, which were seated on them, flew up to the comfortable and leafy tops of the coconut trees, to rest for the night. The water-lilies opened out and shone in their fresh and delicate beauty. The night-bird called out to her mate, announcing the fall of day, and other birds of the wood retired to their nests. The udders of the cows which had been grazing all day were now overflowing with milk, and the cows thought of their calves and wended homeward, lowing eagerly. In the city the Brahmans tended the sacrificial fire, and bracelet maidens lit the lamps. The flute and the lute made sweet music in many quarters. And like a woman, who, having lost her husband in battle, re-enters her father's home, Evening, widowed of the Sun and sorrowing newly, came into the city, robed in grey twilight. The moon rose higher in splendour in a .clear, cloudless sky, and the shadow in the moon seemed all the darker, like faults in great men. The sky was trans formed, and the moon's rays streamed into the grove through the crevices in the thick foliage like milk poured from a silver pitcher.
+
+
+
+Manimekala-Devi, radiant as a rainbow, worshipped the sacred lotus-seat, and then came to where the two maidens were and asked Suthamathi what had befallen them and why they stood there. Suthamathi repeated to her the Prince's parting speech, and Manimekala Devi replied:
+
+
+
+“The Prince has not given up his desire; and, though he forbore to press his suit in this sacred grove, he is sure to be loitering in some street outside. Avoid, therefore, the main gate and street, and take the small wicket-gate in the western compound-wall of the grove. Thereby you will reach Chakkaravala-kottam, where many holy men gladly dwell; and there you can pass the night without fear of any molestation."
+
+
+
+"All the people of the city call it the enclosure of the burning-ground," said Suthamathi in reply, " But I see that you, fair lady, like the deceitful gandharva, Maruda-vehan, call it Chakkaravala-kottam. 'I do not understand it. Tell me why you call it se."
+
+Manimekala-Devi feplied : “ Though it is late and getting to be very dark, I shall relate to you the story of that name. Listen, both of you. The burning-ground, which is adjacent to this grove, is as old as the city itself. It is surrounded by a high wall which has four main gateways in it. The gate which has the flag-staff is for the devas, who leave their cars standing in mid-air looking like painted pictures, and enter through it. Then there is the stately entrance, the sides of which are adorned with beautiful pictures of paddy-fields, sugar canes, tanks and groves. The third gate has bare white-washed walls, while in front of the fourth stands the terrible image of a huge demoness, fiercely frowning and biting her lip and holding the fatal noose and a spear in her hands. Soldiers guard this enclosure. It is haunted by devils. Within its walls are seen many strange sights, and terrific sounds are heard there. There you can see the great temple of Kali, with the altar in the front yard, surrounded by lofty trees which bend down with the weight of the heads of those who have sacrificed themselves to the goddess. In another part of it you can see numberless mausoleums, high and low, crowding one another like rocks and hillocks. These are built of burnt bricks in honour of the royal or the saintly dead, bay their friends, or to commemorate sathis who died with their husbands. The epitaphs on them record the respective castes, sex and worthy deeds of those buried underneath. Scattered all over, stand columns and altars of sacrifice dedicated to the mighty gods. There are also raised platforms of stones, squares where many byways and crooked alleys converge, and thatched sheds wherein the watchmen keep their batons and bowls, and eat and sleep. Columns of smoke, blazing pyres, and sheds put up in honour of the dead abound on all sides. Mourners of all creeds and castes; men who burn, expose, bury, lay in vaults, or cover with earthen pots there mains of their dead, freely come in and go out all day and night without ceasing, and the place is ever busy. Loud and endless is the noise heard in that abode of the dead; the sound of the death-drum reminding the survivors of their own mortality, and making their hearts quake with fear; the songs of praise and worship when ascetics are carried to their last resting-place: the wails of those who 'mourn for others; the frightful whoops of the long faced jackals; the owls calling to the dead; the croaks of the carnivorous raven and the screech of the vultures that peck through the skulls and eat the brains of men,--such are the uncanny sounds heard constantly from that burning ground, like the uproar of the sea.
+
+
+
+“Underneath a huge vagai tree and in a thicket overgrown with nettles, prickly-pear, thorny shrubs and weeds of all kinds, hungry and vicious demons congregate and hold their revels, Owls, vultures, crows and other birds of prey, gorged with human flesh and full of glee, hold their councils under the wood apple tree. The kapalikas cook their rice in the shade of the sumac tree without any fear in their hearts. The skulls of the victims, strung together into long garlands, decorate the branches of the jujube. There are open yards where those who eat the flesh of corpses hold their gruesome feasts. Fire-pots, skulls, parts of biers, satchels, discarded garlands, broken pots, paddy and rice scorched and raw offered to the spirits of the dead, lie about everywhere in that vast and unhallowed ground. Cruel and victorious Death heaps up his victims there. He cares not for the saint or the prince, for the young mother or the little helpless infant, for age or youth. He spares none; and insatiate fire devours them all. Are there, then, any more foolish than those who hourly witness all this and are still lost in the intoxication of wealth and luxury, and love not charity and righteousness ?
+
+
+
+"Let me tell you what happened there once. A boy named Sarngalan, returning home at dusk one day, mistook that place for a part of the city, and entered it. He was struck with terror at the weird and miserable sounds he heard and the gruesome sights he saw there. Hungry jackals, vultures and dogs were preying eagerly on the delicate bodies of the dead, and screaming and howling in their glee. He saw a ghoul feasting on the flesh of a once-beautiful maiden with great relish, and dancing in joy.
+
+Horror seized him. He shrieked and fled home and fell lifeless on the doorstep crying, 'Mother! A devil in the burning-ground has struck me dead.' Gothamai, the blind mother of the boy, took up his body in her arms and found her way to the gate of the burning-ground. There she called aloud to Sampapathy, the guardian spirit of the city: 'O Sampapathy!' cried she, 'you who guard and protect from evil the bathing ghats, public squares, groves, streets, temples and other places of this city! Know you not that my old husband and I are both blind, with no one to help us but our boy? And is this thy protection, that my innocent son has been struck dead by some demon or demoness? Are you not strong enough to have saved his life?
+
+
+
+"Thus complained the blind mother, standing before the gate of the burning-ground and holding to her breast the corpse of her son. The radiant Sampapathy appeared before her and asked: Who is it that calls on me in bitter anguish, at this time of the night? What ails thee?'
+
+
+
+“Gothamai replied: "Look on my son here, lying as one asleep; my dear and innocent boy passed by this burning-ground and was killed by some demoness or demon. I have no one else but him.'
+
+
+
+“Sampapathy answered: Neither demon nor demoness has power to take away life. Your son's allotted time on earth was over and his fate, in the shape of fear, overtook him, and he died. Have done with thy great grief.'
+
+
+
+""Take my life instead and give back my son's', cried the bereaved mother. “He at least will tend and cherish his blind father. Take life for life I beseech you, and let my boy live again.'
+
+
+
+“Moved by these words, Sampapathy re plied: When the soul departs from the body, it is born again according to its karma and lives in another form. is there any doubt of this? How then can I call back thy son's soul into this body again and relieve thy sorrow? It is an impossible task. Cease thy grief. It is false sophistry to say that life can compensate life. Are there not always men enough in this world to give up their own lives readily for the sake of kings ? Yet a thousand kings lie buried here. Press no more thy impossible request.'
+
+
+
+“The holy scriptures of the Brahmans say that the Gods can grant us boons at will,' pleaded the mother again, 'And if you, great Goddess, will not pity me and grant my prayer, I will kill myself here now.'
+
+
+
+“I am as powerless in this', replied Sampapathy, 'as are all the other Gods and Goddesses of the Universe, save the Almighty First-Cause who is the Lord of Life. Thou shalt, however, see what power I have.
+
+
+
+" Then Sampapathy summoned all the Gods of the Universe ; and by her command, the seraphs that rule the stars and spheres, the guardian spirits of the elements, the bright host of heaven and the dwellers of the nether world, all who had the power to grant boons to mortals, assembled there. Såmapapathy told them of the bereaved mother's request, and one and all of them gave the same reply which she herself had given. Then Gothamai became resigned to her lot, and gave up her own life after burning her son's body.
+
+
+
+“And to commemorate the might of Sampapathy, who had summoned there all the divine powers and spirits together, the celestial architect, Maya, represented in relief on the circular wall of the enclosure where they had all assembled, an epitome of the whole Universe. He has shown there the great circular range of mountains, known as Chakkaravala-giri, surrounded by the outer oceans. In the centre of that range stand Maha Meru and the seven sister mountains, each surrounded, as by a
+
+moat, by one of the inland seas. The four great islands which are each a vast continent, and the two thousand smaller islands, are also figured there, together with all the trees, animals, men and Gods that are to be found in them. Therefore is it that the enclosure of the burning ground is also known as Chakkaravala-kottam."
+
+
+
+At the end of this account, Manimekalai re marked sadly, “Such, indeed, is the nature of man's life on earth.*
+
+---------------
+
+
+Chapter VI : Night and Morning
+
+
+"Such things have happened in a single night,
+
+By potent magic's power op artful guile,
+
+That stranded in this strange and lonely isle,
+
+I know not if I dream or wake this while,
+
+Or if my wits deceive or serve me right”
+
+
+
+Then in the darkness of midnight, while Suthamathi was rapt in sleep, Manimekala Devi took up our heroine in her arms, and rising in the air, flew southward to a distance of thirty yochanas to her own island of Mani pallavam.
+
+
+
+Leaving Manimekalai in the island, Manimekala-Devi appeared in a vision before Prince Udayakumaran, in his palace at Kaveripatnam. Stricken with incurable love on seeing Manimekalai in the grove, and hoping to obtain her by some means or other on the morrow, the Prince was seated in a reverie by the side of his unpressed downy bed.
+
+
+
+“Son of a king !" said Manimekala-Devi, accosting him, “If the king swerves from the path of righteousness, the spheres will stray from their paths. When the spheres go wrong the clouds will withhold their seasonable rains. With no rain there can be no life on earth. Thus, it behoves a king to care for all lives in his kingdom as for his own life, for they all depend on him, Leave off, therefore, thy unrighteous desire for the holy maiden.”
+
+
+
+Then the Goddess entered the grove again, woke up Suthamathi, who was still sleeping there, and said to her: “I came here to see Indra's festival. Be not alarmed. The time is ripe for Manimekalai to enter the righteous path of the Lord Buddha. I have, therefore, carried her away by my magic power, and placed her in the blessed island of Manipallavam. She will learn there the history of her former birth and return to this city this day week. She will come in disguise then, but you will know her. On that day many marvels will happen. Tell Madhavi of my coming here and of her daughter's betaking herself to the blameless path. She has heard of me, the Goddess amidst the seas, from Kovalan. I saved his ancestor from shipwreck, and when a daughter was born to Kovalan, he gratefully named her after me. On that night I appeared before Madhavi in a lifelike dream and told her that her daughter was destined to conquer the desires of the flesh, relieve misery in this world, and become famous for her piety and penance. Remind her of that dream,”
+
+
+
+Having said this, the Goddess vanished. Suthamathi was grieved and bewildered beyond measure by these words. The city was asleep now, and the pleasant music and the singing to the accompaniment of various instruments were hushed in its dancing-halls, and the dancers, the singers and the audience were alike rapt in slumber. The children were sleeping sweetly in their little beds, tired with playing all day and dragging their toy-carts. Their nurses were also asleep, after having by due rites warded off all evil influences from them for the night. The doves in the eaves of the houses, the water-fowl in the ponds and the birds in the groves were all silent now, their beaks and eyes closed, and their festive joy at rest. But other sounds and noises were heard instead. By observing the water-clock, the sentinels proclaimed from the King's palace the several watches of the night. From their irksome stables the hungry elephants sent forth their long-drawn peals of protest. On their patrols, the night-guards sounded the warning drum in the car-streets 'and side streets of the city. The noise of the tumultuous revelry of drunken sailors came floating on the air from their hamlets near the seashore. From the tanks were heard the sounds of young mothers having their first cleansing bath after child birth, attended by women carrying censers which fumed with neem leaves and mustard to keep off illness and evil spirits. Though the King was without a foe, his warriors sacrificed to the guardian spirits at the many squares where four streets met, and prayed to them, in voices of thunder, for victory to his arms. And exorcists and magicians were about in that "odd even time of night," shouting to the evil spirits and demons to come and accept of their offerings for the recovery of weakly young mothers, ailing infants, women labouring with their first child, and men with dangerous wounds.
+
+
+
+Frightened by the confusing tumult of these and other sounds, Suthamathi left the grove, groping in the darkness to the trap-door in the west wall, and reached Chakkaravala-kottam, the marvels, of which Manimekala-Devi had related to her. There she took refuge for the rest of the night in a common almshouse, the doors of which stood wide open for one and all to enter.
+
+
+
+On one of the tall stone pillars of that almshouse Suthamathi saw the image of a deity. sculptured by Maya. On seeing her, this image opened its lips and spoke to her of her past birth and assured her of Manimekalai's safe return after seven days.
+
+
+
+Suthamathi's heart trembled at this marvel. Then, in the last watch of the night, while sentries were falling into a doze and the eyes of lovers, sleeping on soft downy beds, were opening; while conches were sounding and elephants were pealing long and loud; while cocks were crowing and horses shaking themselves in their stables; while birds began to sing in the woods and the bracelets of women to jingle in their homes; while sacrifices were being offered on the altars of the Gods and flowers were being laid before the guardian spirits of the bazaar; while many kinds of musical instruments were sounding in the houses of those who practised them and many kinds of articles, to be given away freely, were being gathered in the courtyards of wealthy and charitable persons; while the city woke from its sleep and the sun sprang up from the vast expanse of the ocean, dispelling darkness, Suthamathi stepped out into the streets with a heavy heart and went direct to Madhavi and told her fully all that had happened overnight. Then they were both anxious for Manimekalai's safety, and sorely grieved.
+
+
+
+Meanwhile Manimekalai woke up in the morning from her deep sleep in the sea-girt island of Manipallavam. She found herself on the soft sandy banks of a deep lagoon, under a canopy of thick foliage formed by the branches of numerous trees. The bee-haunted lagoon was covered with water-lilies and moss, and the flowers shed by the trees formed a soft and fragrant bed on the moon-white sand. The foreshore hard by was strewn with pearl oysters, corals and spars of sandal wood, cast there by the waves; and the adjoining marshes were ploughed, as it were, by snails and other innumerable molluscs.
+
+
+
+Waking amidst such surroundings, Manimekalai felt like a soul forgotten by its once-loved kinsfolk and born newly in a strange place. She saw neither familiar faces nor landmarks, and whatever her eyes met was strange to her. The sun now rose above the distant horizon of the vast blue expanse of the sea. Manimekalai first thought that the place was, perhaps, a new part of the Upavanam unknown to her. “ You grieve me by thus hiding yourself, Suthamathi !" she cried out, “I know not whether I am dreaming or awake. I am afraid. Speak to me, I pray you. The dark night is over, and my mother will be anxious for me. Why don't you come, my friend? Have you left me alone and gone away? I know not if this is some magical delusion caused by that spirit who appeared before us miraculously. I am afraid to be all alone, my friend; come to me, I beseech you."
+
+
+
+Thus lamenting and calling out to her companion of the night, Manimekalai explored the low places and the sand-hills of the island, where, like soldiers from the rival camps of kings, the water-fowl with the swan at their head and the land-birds with the cock for captain, sat facing and calling to one another. Nowhere saw she a familiar sight. Her hair, adorned with bunches of flowers, fell dishevelled over her. She hallooed and shouted and she wept and wailed in despair. She thought of her father, Kovalan, and overcome by sorrow, she mourned his sad fate and her own. “O my dear father !" cried she, “ cruel fate drove you with your wife from your native city into exile in a foreign land and you were unjustly slain by the sword there. The same cruel fate has brought me here to this pass."
+
+--------------------
+
+
+  Chapter VII : Manimekalai learns her Past 
+
+
+
+“Our birth is but a sleep and a forgetting :
+
+The soul that rises with us, our life's star,
+
+Hath had elsewhere its setting,
+
+And cometh from afar."
+
+
+
+THUS wailing and wandering all over the island, our heroine suddenly came upon the Holy Seat of Buddha, shining radiant like the sun, in a halo of divine glory. The circular seat of pure crystal had a square pedestal in the middle, bearing the sacred footprints of the Master. The seat was nine cubits in diameter, and stood in the air three cubits above the ground. A, it was dedicated to the Lord of Righteousness, the trees standing around shed on it only fragrant blossoms, and the birds would not go or flap their wings near it. This resplendent seat had been installed on the island by the King of the Devas, and such was its virtue that those who saw it remembered their past lives. Two kings from the land of the Nagas in the East had both desired to possess it, but neither could move it. They did not, however, give up their desire, but with flaming eyes and hearts fuming with rage, they gathered together their forces and fought long for its possession.
+
+
+
+Then the Lord Buddha, who chanced to go to the place, put an end to their quarrel, claimed the seat for himself, and sitting upon it, preached the Law of Righteousness to them. From that day the seat was revered and praised by all blameless men.
+
+
+
+The moment Manimekalai saw that Holy Seat, she lost all consciousness of self. Her hands went up of their own accord, and the palms closed above her head, in the posture of adoration. Tears fell on her bosom from her beautiful eyes. She reverently went round the seat three times, and then prostrated herself before it, her dark dishevelled hair enveloping her radiant form like clouds the lightning, And when she rose up, she knew all her past life.
+
+
+
+“O adorable and wise sage Brahmadharma !” she exclaimed, “I see clearly now the truth of all you told me in my past birth, on the bank of the river" Kayankarai. You were then the brother-in-law of Attipathi king of the Gandhara country. You came to him as his preceptor. You foretold that in seven days a great earthquake would shake the whole of Jambu-dwipa, making the people tremble with fear; and that the king's city, with the good country of the Nagas for four hundred yojanas, would be submerged in the sea and destroyed. You, therefore, advised the king to leave his city and go elsewhere.. The king proclaimed by beat of drum that the citizens, with their cattle and all movable property, should go away from there. He himself, with his
+
+huge army and retinue, deserted his capital, Idavayam, and moved north ward to the city of Avanti. On the way, while he was encamped in a lofty and spacious grove on the bank of Kayankarai, the fate you fore told overtook and destroyed that city on the appointed day. Then the king and all his people fell at your feet and praised you as their saviour, and you taught them the Law of Mercy and Righteousness.
+
+
+
+“I was then born as the daughter of Ravivanman, king of Asodharam by the resounding waves, and of his queen, Amirthapathi. I was named Lakshmi, and given in marriage to Prince Raghulan, son of king Attipathi by his queen Neelapaths, the fair daughter of Sridhara, king of Chitrapuri. My husband was fair as, the morning sun. When my husband and I went to you to hear your precepts, and saluted your feet, you said to me: 'On the sixteenth day Raghulan will be bitten by a poisonous snake and die. You, his wife, will enter the flames with him. This is destined to happen. You will be again born in the ancient and festive city named after the sacred river Kaveri. On a day when imminent trouble shall threaten you, Manimekala-Devi will appear, and remove you from that city at midnight, and leave you on an island in the south. You will there see and worship the Holy Seat, on which the Healer of Life-sickness sat and taught righteousness to the mighty kings of the Nagas, cleansing their hearts of hatred and evil and opening their ears to truth. When you behold that Seat, you will remember your past life and what I tell you now.' I trembled on hearing those words, betokening mortal grief, and prayed you to tell me where my lover, Raghulan, would be born. You answered that my husband would be shown me by the Goddess who should bring me here. Would that she were come here now!"
+
+And Manimekalai grieved again and wept for her past sorrows.
+
+
+
+Now that our heroine had learnt something of her past life, swift as thought Manimekala Devi came down cleaving through the air with flowers in her hands like a blossoming creeper. She went round the Seat and praised it in these words in Manimekalai's hearing :
+
+
+
+“ All lives on earth had lost their senses ; their hearing was blocked to righteous maxims; they had forgotten truth and justice, and were steeped in ignorance; and this world was a poor place, indeed, when Thou wast born into it, like the glorious sun into a world that had been groping for ages in utter darkness. Thou modest righteousness to shine again. I worship thy feet. This Seat is Thine, it is Thou. I praise it with my tongue, I bow my head to it, I adore it in my heart, for I shall grieve no more."
+
+
+
+Thus the Goddess chanted and bowed before the Seat, when Manimekalai approached her and said: “By your divine favour I know my past life; but tell me, I pray you, where and who is my husband ?"
+
+
+
+“Listen, Lakshmi !" replied the Goddess, " One day, while you were both in a pleasure garden, you fell out with your husband Raghulan. In the impulse of his boundless love, he threw himself at your feet and sought to be reconciled to you. Just then Sadhu-chakra, a great spiritual adept and sage, who had conquered all desire and taught the truth at Ratna-dwipam, was passing through the air. He came down into the grove, seeking refuge against the heat of the midday sun. You were confused and embarrassed on seeing him, and you saluted him shyly. Raghulan did not understand, and angrily demanded who the stranger was. You closed his mouth with your fingers and chided him for not knowing, and for being slow of tongue in praising the great sage who had descended into the grove from the sky. Then you and your husband saluted the sinless man again, and prayed him to accept of food at your hands, though you were not his disciples.
+
+
+
+“He gladly accepted and partook of your hospitality. The fruit of that good deed still clings to you and will deliver you from the bondage of birth. Prince Udhaya-kumaran, who followed you and whom you saw at the Upavanam, is your Raghulan. He loves you; and what is more, your heart is also drawn towards him. But you are, as it were, a seed of dharma, destined to grow into a mighty tree and spread far and wide the Law of Righteousness and Compassion. Should you fall into the meshes of love, it would be dike finest paddy cast away into a barren saline marsh. Therefore is it that I brought you here, to prevent such a disaster, and to make your mind firm in the Path.
+
+
+
+“ Listen further, Lakshmi. In your last birth, you had two elder sisters, named Tharai and Veerai, and both of them were the wives of king Dutchaya. Once he went out on an excursion with them and was emcamped on the broad bank of the mighty river Ganges. The blameless and learned sage, Aravana, happened to pass that way, and the king entertained him with honour. Aravana said to the king: 'I came on a pilgrimage to the Mount of the Lotus Feet, not far from here. It is called so because it bears an impression of the Master's lotus-like feet which absolve all sin. The First One, the Wielder of the Wheel of Dharma, He who redeemed humanity from mortal sufferings, stood on that hill of yore, and taught all men to live in amity and love, and destroyed hatred even among the brutes. You too will do well to go and worship that hill.'
+
+
+
+"As advised by the sage, the king, with his two wives, went to that sacred hill and worshipped it. So the queens, your two sisters, are now in this life with you, as Madhavi and Suthamathi. Fair one !, You now know your past life. You know the true faith. You will also hear, in time, the tenets held by men of other faiths. They may refuse to discuss their false creeds with you, because you are young, and a woman. Let me, therefore, teach you two mantrams that will enable you to move through the air and to take any form you choose at will."
+
+
+
+Then Manimekala-Devi taught her the magic words, and continued: “Know that, on the sacred 'full-moon day, you will outgrow worldly wisdom and be confirmed in the true Faith of the Wise One. Salute this Holy Seat and go back now to your native city."
+
+
+
+Having said this, the Goddess rose in the air, but she returned to earth again, and exclaimed: “I have forgotten one thing yet, daughter of the True Faith! Listen to this. The human body is built up by food. This potent mantram will destroy the feeling of hunger and thirst in you."
+
+
+
+She then taught the mantram to our heroine, rose in the air again, and vanished.
+
+-----------------
+
+
+ Chapter VIII : The Never-Failing Grail
+
+
+“Glory and joy and honour to our Lord,
+
+And to the Holy Vessel of the Grail."
+
+
+
+AFTER the Goddess left her, Manimekalai slowly wandered many a mile through the island of Manipallavam, looking at the white sandhills, the flowery groves and the lilied lagoons, when a celestial spirit appeared before her and asked: “Who are you, fair maid, who wander here like one stranded by shipwreck?"
+
+
+
+“You ask me who I am," answered Manimekalai, “ But tell me first to which of my births you refer. Listen, radiant one, to what I say. In my last birth, I was Lakshmi, wife of Prince Raghulan, and in this birth I am Manimekalai, daughter of Madhavi, the dancing-actress. The Goddess whose name I bear brought me here, and I have seen the Holy Seat and know my past birth. This is how I came here, and this has been my gain. Who are you, that are fair and graceful as a tender creeper in blossom ?"
+
+
+
+The Spirit replied: “ The king of the Devas has set me to guard the Holy Seat in this isle, and my name is Dwipa-Thilaka. In the neighbouring island of Ratna-dwipain, there is a hill whose crest bears the Lord Buddha's footprints, the only ship that can carry us speedily and safely across the vast sea of births. I return now after worshipping there. Listen! Only the blessed ones who have walked aright in the path of Dharma laid down by the Lord of Dharma, will see and worship this Holy Seat and thereby learn their past lives. Such sin less ones are, indeed, few and rare in this world; and the Word of Dharma is surely theirs by right. You are such a privileged one. In front of this far-famed seat there is a large and deep tank, with pretty moss and lilies, known as Gomukhi. In the early spring, in the month of Vaisakh, when the Sun is in the sign of the Bull, after the first ten and three star-groups have passed by, on the day of Visakha which stands right in the middle of the twenty-seven constellations, that is, on the anniversary of the sacred full-moon day which witnessed the birth of the Lord, the never-failing Holy Grail of Aputhra will always appear in that tank. The day is this and the time is now. Perhaps that holy vessel may come into your hands. Rice, the elixir of life, once placed in it, may be taken out and given without limit to the hungry and the needy, without replenishing. Their hands may tire with receiving, but the rice in the grail will never grow less. Sage Aravana of your city will tell you more of this."
+
+
+
+On hearing these words of the celestial Spirit, the heart of Manimekalai, which was ever full of pity and compassion, yearned to possess that miraculous bowl. So she worshipped the Holy Seat again, went round the Gomukhi tank reverently with Dwipa Thilaka, and stood on its bank in prayer, when, lo! the adorable Grail rose from out the depths of the tank and passed into her hands. She was overjoyed to receive that sacred vessel, and her tongue praised the Lord in exultation. She hailed His Holy Seat and chanted these words:
+
+
+
+Conqueror of Kama, I bow to Thy feet !
+
+Destroyer of Evil, I bow to Thy feet!
+
+Seeker of others' good, I bow to Thy feet!
+
+Refuser of Paradise, I bow to Thy feet!
+
+O High above thoughts, I bow to Thy feet !
+
+Dispenser of Light, I bow to Thy feet!
+
+O Deaf to ill speech, I bow to Thy feet!
+
+Truthful and Eloquent, I bow to Thy feet !
+
+My tongue cannot praise Thee, I bow to Thy feet !
+
+
+
+Then Dwipa-Thilaka too praised the Lord's Holy Feet and said to Manimekalai : “Hunger is, indeed, a miserable affliction. It makes a man forget his noble birth; it kills virtue; it causes learning and knowledge to be neglected; it loses honour, the most precious jewel that man or woman can wear; it destroys beauty; it steals away manliness and makes a man wait, with his wedded wife, at another's gate. Such a sinner is hunger. My tongue is all too weak to praise adequately those who relieve this dire affliction. It is said that the great rishi, Viswamitra, who gave up a kingdom and took to penance, was once, during a severe drought and famine, reduced by hunger to such a pass that he had either to eat dog's flesh or die of starvation. The rishi chose to eat that unclean food, rather than starve. So he offered, as usual, a part of it in sacrifice to the devas, before partaking of it himself. Then Indra appeared before him to stay his hand and caused a heavy downpour of rain, which put an end to the famine and gladdened all lives on earth. But, remember, what is given to the rich is only sale or barter; true charity and righteousness consist in relieving the hunger of the helpless and the needy. Verily, the food-giver is the life-giver among men. You are wise, and will become truly a life-giver, with this never-failing grail in your hands. Your heritage of good deeds must indeed have been great."
+
+
+
+“In my last birth”, replied Manimekalai, “My husband died of snake bite and I entered alive his funeral pyre. At the moment of my losing consciousness, the memory of my feeding Sadhu-chakra on the day he appeared in the grove at noon, flashed through my mind like a dream. That good deed and my last thought in that life have now borne fruit, and this Holy Grail has come into my hands. In this great Jumbu-dwipa, there are some who now reap the harvest of the good deeds sown by them in the past and are blessed with wealth and happiness. Others there are, and their number is legion, who for their past sins now wait in rags at the doors of the happy rich, suffering piteously from the hunger gnawing at their bowels and taking no thought of sun or rain. My heart yearns to see this miraculous grail over flow with the elixir of life at the sight of hungry faces, even as a mother's breasts fill with milk on seeing the face of her hungry child.”
+
+
+
+“I forgot to tell you of one peculiarity of this vessel :” said Dwipa-Thilaka, “ Your words remind me of it. Only in the hands of those whose hearts are truly righteous and whose boundless compassion urges them to such charity, will this sacred vessel manifest its life-giving virtue. But you are such a one, and you know its nature. Go you hence now."
+
+
+
+Manimekalai saluted Dwipa-Thilaka and the Seat of the Lord and then rose in the air, with the Holy Grail in her hands.
+
+-------------------
+
+
+Chapter IX : Aravana, the Hoary Sage
+
+
+"His looks adorned the venerable place :
+
+Truth from his lips prevailed with double sway.”
+
+
+
+" THIS is the seventh day fixed by the truthful Goddess, but my daughter has not come. Some ill must have happened to her," said Madhavi, anxiously; and Suthamathi who heard her, was also grieved and perplexed. Swift as thought, Manimekalai appeared before them and relieved their anxiety. Then she addressed them in these words, which filled them with wonder: .
+
+
+
+“Daughters of the great king Ravivanman! Wives of king Dutchaya! My elder sisters, Tharai and Veerai! I salute your feet. May your good deeds avail to cleanse you of the sins of the body! You will learn of your past lives from the sage Aravana here. This is the Holy Grail of Aputhra Salute this, ye too."
+
+
+
+Madhavi and Suthamathi worshipped and praised the Holy Grail accordingly; after which they went to the dwelling of the blameless sage, Aravana.
+
+
+
+The holy Aravana was an old, old man, grey and bent, but his voice was firm and steady, and his speech wise. They saluted him with due respect. The first greetings over, they told him of Manimekalai's going to the grove, of the Prince's following her and what he said to her friend there, of the Goddess' removing her to Manipallavam, of the holy Seat and the knowledge of the past which it gave her, of the Goddess' telling her to learn more of the past lives of Madhavi and Suthamathi from the holy sage and the three potent spells she taught her, of the advent of Dwipa-Thilaka after the Goddess was gone, of how Manimekalai obtained the Holy Grail and was advised to learn more of its past history from him, and of her return to the city on the seventh day,
+
+
+
+The great sage was overjoyed at what he heard, and said to Manimekalai:
+
+
+
+“I shall tell you more of the story of these two good women. Listen ! Besides the occasion mentioned to you by Manimekala-Devi, I went another time on a pilgrimage to the Mount of the Lotus Feet, and then too I met the brave king Dutchaya in a grove and inquired if all was well with him and his queens. He cried in his grief, and told me how his queen, Veerai, foolishly went near a newly caught elephant and was trampled to death, and how her sister, Tharai, unable to bear the sorrow of her loss, threw herself down from a high terrace and committed suicide. I comforted him, telling him not to repine at the effect of karma. And now, like actors on a stage who appear in different costumes, you have come before me again in other forms, as Madhavi and Suthamathi !"
+
+
+
+Having thus told our heroine more of the past lives of her mother and her friend, the sage continued :
+
+
+
+“ Listen to me, my daughter, you who know already of the bondage of birth and the Truth. The great Law of Righteousness, first pro claimed by our Lord, does not prevail, and the Way to Nirvana is blocked now, as with thorns and weeds. Few follow the True Path and many prefer the broad way of evil living. The cycle of births and deaths is in full swing. Truth now is like the sun hidden by a fog; we know it must be there, but we cannot see it. The waters of the mighty ocean cannot all pass through the tiny hole made by an arrow; yet do I teach the Truth to such as will hear me, and it trickles down a little. They are all, however, men of the world, and do not understand clearly. The Truth cannot, through my mouth, have the free passage of flowing waters. But sixteen hundred and sixteen years from now, Buddha will appear again, at the united and earnest prayer of all the Gods, and the earth will rejoice as when the sun rises and delivers it from darkness. Then, as the mighty flood rushes through the sluices of the tank and overflows its banks all round, the Truth will flow from His lips and invade all men's hearing gladdening their hearts beyond measure.
+
+
+
+“Even as the glimmer of the dawn announces the approach of sunrise, many good omens will foretell the rising of the Sun of Wisdom to dispel the utter darkness in the minds of men. The sun and the moon will then shine together in amity and the moving stars will keep to their right paths. The clouds will rain in the proper seasons and the land prosper.' Living creatures will suffer no pain. The winds will blow aright and the mountains and the seas will yield up their treasures for the benefit of mankind. Cows will amply nurse their calves and also fill the milk-pails to over flowing. Birds will not have to wander for their food, but will rejoice in plenty. There will be no fear or enmity between beasts and men. Even the dwellers in hell and the devils will suffer no pain. Hump-backed, dwarfed, dumb, deaf, blind, deformed or idiotic children will not be born then. Those who are born at that time and hear the Law of Mercy from His lips, will be freed for ever from the painful bondage of birth. I shall, therefore, never fail to praise the Holy Feet of the Wise One under the Bodhi tree in any of my births.
+
+
+
+“Listen, fair one! Many marvels shall happen in this city through you, and you will be confirmed in the True Faith only thereafter. Madhavi and Suthamathi also will overcome karma and join you in the Good Faith, as the result of their having worshipped the Mount of the Lotus-Feet in their past life. You have received this blessed vessel of the elixir of life. Listen to this great truth which applies alike to all, Gods or men: To relieve hunger is the highest charity."
+
+---------------------
+
+
+Chapter X : The Episode of Aputhra
+
+
+“Kind hearts are more than coronets,
+
+And simple faith than Norman blood."
+
+
+
+"LISTEN, fair one, to the story of Aputhra who was the first to own this sacred bowl," continued Aravana. “ There was once a Brahman in Benares, by name Apanchika, who lived by teaching the Vedas. His wife, Sali, was untrue to him, and fearing the penalty incurred by faithless wives she went on a pilgrimage to Cape Comorin in the south. When her time was full, she gave birth to a son on the way in the dead of night. Pitiless to her own child she abandoned it in a garden nearby, and departed. A cow heard the cries of the motherless infant, went near and licked it gently with her tongue, fed it with her sweet milk, and tended and nursed it there for seven
+
+days. Then a Brahman of Vayanangode, Bhuthi by name, happened to pass that way with his wife. He shed tears of pity on hearing the infant's cry, and took it in his hands, saying: 'He is my son, not the son of the cow.' He gave the child to his wife, praised his house hold Gods and exclaimed: A son is born to us this day. May our house prosper!' The boy was brought up by the Brahman as his own son, and in the course of time he was duly taught all that a Brahmin boy should know before the sacred thread is put on him. One day the boy went to the house of another Brahman, and there a yaga with animal sacrifice was in progress. The victim, a cow whose horns were decked with red flowers, was tied to a stake, and she was trembling like the deer caught in the hunter's net and awaiting the murderous shaft. Tears flowed from her eyes, and she lowed and moaned pitifully. The boy's heart was touched, and he made up his mind to steal away the cow that night. He hid himself near by, and after dark he untied the cow and led her out of the village and away by a difficult and stony footpath. The Brahmans and the ignorant multitude pursued and soon overtook him with the cow. They beat him with sticks, saying: 'Are you the son of a neecha to steal a cow and escape by such a path ? Confess the truth! You must be a pulaya fellow, surely, and we shall drive you away from our midst.
+
+
+
+“The cow butted with her horns and disem bowelled the chief priest of the Brahmans who was beating Aputhra, and then she ran away into the jungle.
+
+
+
+“Do not hurt me, I pray you, but listen to me,' said Aputhra to the Brahmans. “The cow grazes her fill in the pasture-grounds left uncultivated by man, and then kindly feeds him with her rich, sweet milk even from his infancy. How can you hate such an animal, tell me, O learned Brahmans, and seek to kill her?'
+
+
+
+“Such sacrifice is prescribed in the holy scriptures vouchsafed to us by Brahma,' replied they scornfully. “And you, ignorant little brat, condemn us without knowing the holy books! Perhaps, you are the foster-child of this very cow, you speak so! You are no Brahmin boy!'
+
+
+
+“Cow-son Asala, deer-son Srungi, tiger-son Vrinji, fox-son Kesa-Kambala, revered by the great ones, were not these some of the elders and rishis of your race? And do not you praise them to the skies?' 'retorted Aputhra boldly.
+
+Can there be any shame in being indebted to a cow ? Do your scriptures speak of it?'
+
+
+
+“Then one among the Brahmans there said: 'I know all about the parentage of this boy. I once met a lonely Brahmin woman at Cape Comorin, worshipping at the temple of the Goddess there. She was weary and wasted with travel. I asked her who she was and of what place. She told me that she was once the honoured wife of a Brahman in Benares, a teacher of the Vedas. She broke her troth and misbehaved herself in a way unworthy of a Brahmin wife, and so left her husband. Her name, she said, was Sali. Fearing chastisement for her offence, she joined some other unfortunates on a pilgrimage to Cape Comorin, to cleanse herself of the sin. On the way a child was born to her about ten miles beyond Korkai, the great capital of the Pandyas.
+
+
+
+“I had no pity on my own child,' cried she, .and I abandoned him in a garden near where he was born, and came away. Is there any hope of salvation for such a wretch as I?'
+
+
+
+“Bewailing in this manner, she sobbed bitterly. I am sure this boy is her son. I did not speak of this till now, as there was no good in it. Let us not cherish this boy among us any longer, for he is a bastard.'
+
+
+
+" Aputhra laughed aloud at these words, and replied: 'Shall I speak of the lineage of the saintly forefathers of the Brahmans? The celestial courtesan, Thilottama, appeared before Brahma,' and she then gave birth to Vasishta and Agasthya, the foremost of Brahmin rishis. Is this not true, Oyez learned elders, on whose breasts the sacred thread shines so prominently ? Dare you blame Sali now?'
+
+
+
+“ Aputhra laughed at the Brahmans in scorn, and stood facing them with head erect. But even his own foster-father, Bhuthi, now disowned him as a blasphemer and one unfit to sojourn with Brahmans; and he denied him his roof and hearth. Then Aputhra had to beg for his food, but the villagers threw stones into his alms-bowl because he stole a cow. So he left the village and went to the wealthy city of Madura in the south. There he took shelter in the portico of the temple of the Goddess of Learning, and daily walked the streets, alms bowl in hand, begging from door to door of the palatial city. When the bowl was filled, he would call aloud to the blind, the deaf, the maimed, the helpless, the sickly and other needy waifs, and feed them out of it. He would himself eat of what was left over, and then sleep in the portico with the bowl for a pillow.
+
+
+
+“ Listen, fair one, to what happened to him one night in the portico of that temple " continued Aravana. “It was a rainy night and pitch dark. Some weary travellers came to the portico, and waking up Aputhra who was sound asleep, praised the fame of his charity and sought his help as they were famished with hunger. Having no means save the food got by begging which he had already spent, Aputhra was sorely grieved at his own helplessness.
+
+
+
+"Then the Goddess of Learning appeared before him and said, 'Grieve not. Arise and receive this Holy
+
+Grail. Even if there be severe famine everywhere in the land, this grail will still have food always and prove inexhaustible. The hands of those who receive from it may weary, but the bowl itself will never fail.' Aputhra received the holy vessel from her hands and praised her in these words: -'Goddess of the Intellect ! Lamp of Learning, ever bright! Goddess of Speech! Liege Lady of Gods and men! Goddess who relieves all sorrow ! I salute Thy holy feet.'
+
+
+
+“He then gave the strangers to eat, and from that day forth he sustained with this vessel countless lives of men, and also beasts and birds. He was, therefore, surrounded always by the hungry and the needy, even as a fruit tree is by birds, and the fame of his never ceasing charity was noised abroad all over the country. His 'charity gained for him such great credit in heaven that Indra, the King of the Devas, began to fear for his throne. So Indra came before the life-sustainers in the guise of an old Brahman, bowed with age and walking feebly with the aid of a stick, and said, 'I am Indra: I am come to grant you any boon your heart may desire, as a need for your great charity on earth.
+
+
+
+"On hearing these words, Aputhra laughed long and loud like a greenhorn, till his very ribs began to ache. Then he said to Indra lightly, 'I care not for your boons; you may go. Do not your devas merely enjoy there the fruit of the good deeds done by them in their past lives here on earth? And are you not the mighty monarch of that fair country of the devas, where none strives after righteousness and perfection and where goodly charity and self-sacrifice are alike unknown? This Holy Grail of mine relieves the hunger of the destitute, and rewards me daily with the sight of their happy faces. Perhaps you wish to give me rich food or clothing, women or patrons.
+
+I care not for these now.'
+
+
+
+“Indra was displeased at Aputhra's scornful rejection of his kindly offer. In order to spite him, he caused rain to pour down in abundance. Then the land of the Pandyas which had suffered from severe drought and famine for twelve long years, prospered again and over flowed with milk and honey. No one suffered from unappeased hunger, and none stood in need of Aputhra's charity. The endless noise of feeding was heard no more in the courtyard of that temple; but, instead, it became the favourite haunt of the vagabonds, libertines and mischief-makers of the city, and of travellers who gladly rested their weary limbs in it, and the noise of gambling and revelling and of vain quarrels and gossip was heard there always.
+
+
+
+"So Aputhra left the place and went forth on his way, all alone, like a king whose kingdom had been swallowed up by the sea. In every village he went to, he enquired for men who were without food; but the people laughed at him, saying, “Who is this man?' and no one cared to ask now where he, the great life sustainers, was. Some sailors, however, met him on the way one day. They told him that the land of the Charakas was suffering from drought and dearth of food, and that thousands were dying of hunger there. 'By Indra's will I cannot find poor folk to feed here,' said Aputhra to the sailors. * And this my never-failing bowl remains useless, like a young virgin growing into an old maid. I therefore wish to go to that famine-stricken country with this vessel.' He then gladly boarded the ship with them, and they sailed with the wind. But a storm overtook the ship on the way and she had to cast anchor at Manipallavam and wait for a day there.
+
+
+
+"Aputhra went ashore to see the island, and the ship sailed off without him in the night, the captain thinking that he had returned on board. The isle was uninhabited, and Aputhra could not bear to support his single life with the holy vessel which could give sustenance to thousands. He thought within himself : I must have done great good in the past to obtain this Holy Grail at all, but now its fruit is over, and for some dire sin which I must have committed thereafter, this calamity has overtaken me
+
+and I am doomed to live alone here, with this in my hands, a vain burden. I will bear it no longer. So he worshipped the sacred vessel and then let it sink into the fair tank, Gomukhi, praying at the same time that it might rise to the surface once a year and pass into the hands of any merciful and charitable person, should any such chance to be there then. He himself starved from that day, and was on the point of death when I happened to go there and meet him, and he told me his story. As the sun that rises in the east, dispelling darkness, goes westward to shine over other lands, he left his body dead at Manipallavam, and longing eagerly to help his fellowmen, he is now born again in the land of the Chavakas.
+
+
+
+“ Hear me yet, fair maid," continued Aravana, “the cow which nursed him as an infant was born again in the house of Munmukha, a sage in the cool land of the Chavakas. She had golden horns and hoofs, and she gave of her sweet milk to all even before she calved. The sage who knew the past, the present and the future, then foretold that one, destined to shine as a great protector of lives, would be born of that cow.
+
+
+
+“ Accordingly, he who gave up his life at Manipallavam, not through sickness but out of the longing in his heart to be reborn in a sphere of usefulness to his kind, he who put away with an unfaltering mind that which could save his life, he who was destined to be honoured and revered by the world, he was born of that cow on the birthday of the Wise One.
+
+
+
+“Though there was no rain that day, the sky showered drops of sacred water and flowers on earth. The learned sages who live in Chakkaravala-kottam wondered what the good omen meant, for it was not the time for Buddha to appear again. So they went at night and consulted the Deity whose image is engraved on a stone pillar there. The Oracle told them that one who died at Manipallavam was born again in the land of the Chavakas that day, and referred them to me for the rest, and I had to tell them the whole of this story,
+
+
+
+“ The king of the Chavakas was childless, and he begged the sage Munmukha to let him adopt the child of his wonderful cow. So the boy was brought up by the king as heir to the throne; and now he has himself become the king of the Chavakas in his turn."
+
+-----------------
+
+
+Chapter XI : The Story of Athirai 
+
+
+
+“'Tis chastity, my brother, chastity,
+
+She that has that is clad in complete steel.”
+
+
+
+THEN the sage, Aravana, reminded Manimekalai of how her own land was, at that time, stricken with famine through lack of rain, though there was water in the Kaveri. Whether it was due to the displeasure of Indra or any injustice on the part of the righteous king, it did not matter. The poor folk suffered, and it was therefore her duty to keep the divine vessel with her no longer unused but to succour the needy. It would otherwise be an unjust act, as when the devas hid away the nectar of life obtained by churning the ocean, after par taking of it themselves.
+
+
+
+Manimekalai, Madhavi and Suthamathi there upon thanked the sage and respectfully took leave of him. Manimekalai then put on the garb of a Buddhist mendicant nun and stepped into the main street of Kaveripatnam with the Sacred Grail in her hand. On seeing her, the noisy rabble and the disappointed libertines and gay gallants of the city expressed regret and sorrow at her change of state." Is it not surprising," said they to one another, “that she who has stolen the heart of Prince Udahayakumaran should thus appear in the streets as a common beggar-woman?"
+
+
+
+Meanwhile, Manimekalai was anxious to receive her first alms from a woman of exemplary chastity, and she began to inquire after such a one. One Kayachandika, a native of the gandharva country in the far north, who was wandering about with the curse of an insatiable hunger ever gnawing her, answered her query. “The long-stalked lotus stands proudly high above all the other flowers of the tank," said she, “So does Athirai stand foremost among her chaste sisters of this city. Listen to her history which I shall tell you now. Her husband was one Sadhuvan, a worthless man who deserted her and lived with a courtesan. He wasted all his rich heritage in dice, gambling and evil living; and when he had no more money to give her, his mistress jilted him. Restless at heart and eager to see other lands, he joined some traders in a voyage across the sea. The vessel was wrecked in a storm, and Sadhuvan, clinging to a broken mast, was cast ashore on the hilly country of the Nakas, a race of naked savages.
+
+
+
+“Other survivors of the wreck brought home the news that Sadhuvan, with many others, was drowned in the sea during the shipwreck, which occurred at midnight. Athirai heard it and called on the citizens to light the pyre that she might become a sati and rejoin her husband. A deep pit was dug in the burning ground and filled with faggots, and the pyre was lighted. Athirai entered the pyre and lay down on the bed which was spread upon it. But the raging flames burnt her not, the bed and her dress were untouched, and even the sandal paste on her body and the garland of flowers in her hair remained fresh as ever. She looked like Lakshmi Devi on her lotus flower. Athirai cried in despair: 'I am indeed such a vile wretch that even the fire will not kill me.' Then a divine voice spoke from on high: 'Listen, Athirai ! Your husband is not dead, but has been cast ashore on the hilly tracts where the
+
+naked Nakas dwell. He will not stay there for many years, but will return here in the merchant craft of Chandra-dhatta. Therefore, grieve not.'
+
+
+
+" Athirai dried her tears on hearing these words, and felt relieved and comforted. She re-entered her home, like one returning from a bath in the tank. She lived virtuously, praying for the early return of her husband, and was lovingly honoured by all chaste women of noble lineage.
+
+
+
+“In the land of the Nakas, her husband fell asleep under the shade of a tree on the hill near where he was cast ashore, tired out by the tossing of the waves. The naked and barbarous cannibals who dwelt on that hill saw him and said among themselves :
+
+
+
+
+
+"'This man has suffered much and he is all alone here, weak and helpless. He shall be come our food to-day.' So they woke him up, but finding that he knew their own language well, they hurt him not. They saluted him and finally took him to their chief priest. In the midst of toddy-pots and white bones put out to dry, and a horrible stench of putrid meat, the priest was sitting with a woman by his side, looking not unlike a bear with his mate. Sadhuvan charmed him by his command of their language and won him over completely. They both rested for a while under the cool shade of a tree, and Sadhuvan told the priest in answer to his questioning, that he had been shipwrecked and cast ashore there. Then the priest said to his men: 'This stranger has been tossed about in the sea without any food and he has suffered much and is weak. Come, good people, give him a young maiden for wife, and plenty of meat and toddy. Sadhuvan was shocked, and said: “These words are not good: I want none of these.
+
+
+
+“'Is there anything else in this world for a man to enjoy besides meat and drink and women?' demanded the priest. “If there is, show it to us and let us see it.'
+
+
+
+“Sadhuvan's wrath was stirred and he replied: 'Listen, priest! Killing and intoxicating drinks are condemned by all wise men. The born dying, and the dead being born again, are like sleeping and waking. It is likewise true that the righteous go to heaven and the sinners to hell. Know that the wise have therefore condemned evil living.'
+
+
+
+“The Nakas and their priest laughed aloud on hearing this speech, and the priest asked again : 'You tell us that the life which departs from the body takes another form and lives in another place. How does that life enter another body ? Explain this clearly.'
+
+
+
+“Sadhuvan answered calmly : 'You know that when there is life, this body has sensations, and feels; but the same body, when the life is gone, feels not even the sword or the scorching flame. Is it not plain, then, that something which was in the body has left it at death? And it is not I who say it, but everyone knows that what leaves the body, the soul, must find another place of refuge. In dreams, you have an example of how the soul travels long distances and acts by itself, leaving the body on the bed. Know that the soul, after the death of the body, enters another body, prepared for it by its own deeds.'
+
+
+
+" Then the red-eyed Naka fell at the wise Chetty's feet and said: 'I cannot support the life within this frame of mine without meat and toddy. Teach me, I pray you, some rules of life suited to me, which I can follow till my allotted time is over and I die.'
+
+
+
+“ Sadhuvan replied : 'You say well. Follow the good way. I shall tell you what is best for you. Never kill shipwrecked folk any more, but save them and help them. Harm no living thing whatever, and -eat only the flesh of animals that die naturally of old age.
+
+
+
+"This rule is possible for us to follow,' said the savage. We used often to kill shipwrecked people of old; and here are the treasures which belonged to them, sweet spices, rich and soft clothes and priceless jewels. Take them all for yourself.'
+
+
+
+“Sadhuvan accepted the gifts and returned home in Chandra-dhatta's vessel. He now lives happily with his wife and gives much to charity. And Athirai is, indeed, the fittest person to give you your first alms. This is her house : enter."
+
+
+
+So Manimekalai entered the house and stood speechless like a picture. And Athirai saluted her reverently and with kind words and filled the broad bowl with rice, saying: “May hunger cease on earth for evermore!”
+
+------------------------
+
+
+Chapter XII : The Story of Kayachandika
+
+
+“Evil is wrought B
+
+y want of thought
+
+And eke by want of heart."
+
+
+
+MANIMEKALAI fed large crowds of hungry people with the food given her as alms by the chaste Athirai. Still the miraculous bowl continued full, though the hands that received the alms out of it were tired. Seeing the marvel, Kayachandika saluted her and said : “I am afflicted with an insatiable hunger which swallows up all food and still gnaws at me unsatisfied, even as the ocean swallowed up all the hills and rocks thrown into it by the followers of Rama, when they sought to build a bridge across to Lanka. This is the effect of my karma. I pray you, mother, save me from this hunger."
+
+
+
+Manimekalai then gave her a handful of rice, on eating which her appetite was at once appeased. Freed from her pain, Kayachandika
+
+again saluted Manimekalai and said: .
+
+
+
+“I live in the far north, in Kanchanapuram, the bright city of the Gandharvas, among silvery hills. Urged thereto by my evil karma, I came south on an excursion with my husband to see the Podhya hill. One day we were beside a jungle stream flowing swift and strong, when a holy sage, named Vrischikan, came there. He was clad in a fabric made of tree bark and his hair was matted, and hung down like ropes. He left on a teak-leaf on the ground a jambu fruit, as large as the lusty fruit of the palmyrah, and went to bathe. Impelled by my evil karma, I walked along with proud and careless steps and trampled on the black fruit. His ablutions over, the sage returned hungry, and saw me and the crushed fruit. Then he said to me: “The best of the Jambu trees yields a single fruit like this once in a dozen years and he who eats it feels no hunger for twice six years more. I take no food except such a fruit, once in twelve years, and I shall have to go without any food now for a dozen years more. I curse you to forget the mantram which enables gandharvas to wander at will through the air; and until I taste a similar fruit again this day twelve years and my hunger is appeased, you shall suffer from the insatiable hunger known as 'elephant-fire.' That curse of the sage, fair one, you have annulled this day. After the sage left me, my husband came, and he was sorry that I had incurred such a curse for mere thoughtlessness. He proposed that we should both return to our home in the north. But I had lost the power of rising in the air, and hunger gnawed within me. My husband brought me many sweet roots, fruits and berries, but all to no purpose. He pitied me and felt for my pain. Then, he said, 'In Jambu-dwipam, in the land of the Tamils, there is a mighty city wherein dwell men of countless riches who fear no reverse, and righteous and charitable persons who help those in need or distress. It may take you many days to reach that city on foot, but I advise you to go there.' So I came to this city and have been living here. My husband used to visit me every year during the festival of Indra, pity my insatiable hunger, and then return home. You have cured me to-day, and I thank you and salute you, Manimekalai, for I shall now go back to my own place in the north. You know that many holy and blame less men live in Chakkaravala-kottam and there is a public almshouse there, with doors ever wide open that all may enter. The hungry, the needy and the sickly from villages far near gather in it, hoping to receive help at the hands of the charitable. Go there, fair lady, and succour them."
+
+
+
+Then Kayachandika flew away, and Manimekalai walked along modestly by a side of the street and entered the public almshouse in Chakkaravala-kottam. She devoutly worshipped at the altar of Sampapathy, adored the Oracle of the Pillar, and then, like welcome rain in a parched desert, she appeared before the crowd there with the divine grail of Aputhra in her hands, and called aloud to them all to come and be fed out of that sacred vessel ; and soon the whole place resounded with the noise of the feeding of the poor.
+
+-------------------
+
+
+Chapter XIII : The Prince Pursues His Love
+
+
+. . . Love is not Love
+
+Which alters when it alteration finds,
+
+Or bends with the remover to remove."
+
+
+
+
+
+WHEN Chitrapathi heard of these doings of her grand-daughter Manimekalai, she felt like one whose painful wound was freshly seared with a red-hot brand. Her heart boiling with rage and agitated beyond measure, she heaved hot sighs in her grief and vexation and declared that
+
+she would put an end to this charity. She called together all the other dancing actresses and said to them: “It was indeed ludicrous of Madhavi to grieve over-much for Kovalan's death and enter a monastery: all those who had any sense naturally made mock of it. We are not chaste wedded wives of ancient lineage to pine with grief and mount the funeral pyre when our lovers die. Nay, ours is the privilege to receive pleasure and protection at the hands of many. We are rather like the lute which survives the musician and passes into another's hands and the bee which haunts flower after flower, sucking up the honey in each of them. The Goddess of Fortune deserts a man when he has no more fruit of past good deeds to enjoy, and we jilt our lovers when they have no more money to give us. For one of us, therefore, to become a nun is indeed a fit subject for all men's mirth. The Prince has set his heart on Madhavi's daughter, Manimekalai. I will help him to compass his steadfast love and hand over her alms-bowl to some beggar-woman. She shall mount his chariot and sit beside him. If I do not accomplish this, I shall, like one whom we outcast from our community, walk round our dancing-hall, carrying seven bricks upon my head, and live apart in disgrace, as one unworthy to enter the house of any dancing-actress for evermore. I make this vow before you all."
+
+
+
+She uttered these words defiantly and sighed again. Accompanied by a few friends, she then walked along the car-street towards the Prince's palace, with drops of sweat standing on her handsome face, and thinking as she went what cunning words she would use to him. She crossed the flowery courtyard of the palace, spread with new sand and ever resounding with the busy hum of bees, and reached the hall of audience. This hall was of brilliant marble, with gilded walls, and pillars overlaid with coral and precious stones. The ceiling was painted with beautiful pictures and decorated with strings of bright pearls. There the Prince/ was sitting on a flowery couch, which rested on sculptured lions, on which the light played constantly. On either side of the royal couch stood a damsel, fanning him with a
+
+foam-white chamara, and there were other attendants also.
+
+
+
+Chitrapathi saluted the Prince's feet, and on seeing her, he laughed aloud and mockingly inquired if all was well with the penance and orange robes of Madhavi and Manimekalai.
+
+
+
+Chitrapathi replied: "I came here in haste because I was eager that a royal bee should enjoy a rare and beautiful bud that is just blossoming. That fragrant flower is in the public almshouse now. May thy garland never fade, Prince ! My message is done."
+
+
+
+The Prince did not know of Manimekalai's return to the city, and his love for her was all aflame again on hearing these words. He rejoiced like a shipwrecked man, tossed about by the waves, who suddenly comes upon a large and seaworthy raft.
+
+
+
+He told Chitrapathi of his former adventure in the grove, and of how a radiant maiden had appeared before him, when he was pining with love-sickness, and reminding him of his kingly duty, warned him to forget the maid of penance.
+
+
+
+“I do not know if that was an angel or a vision,” he added, “but I am perplexed in my love for Manimekalai."
+
+
+
+Chitrapathi smiled at this and said: “Have you not heard, Prince, of how even the Gods are too weak to resist love, and yield to the all conquering passion ? Know «you not how Indra himself, the King of the Devas, loved Ahalya, the chaste wife of a great rishi, and obtained her ? Or how Agni, the God of Fire, pined for the wives of the seven sages? Re member, Prince, that Manimekalai is not born of a lineage where the
+
+honour of maid, wife and widow is jealously guarded, and a woman worships no God save her husband, and one wife to one husband is the rule. She comes of a caste in which women openly enter the hall of dancing and dance and sing publicly before all men, display their charms and accomplishments, cast the net of love over the audience with their bewitching eyes and come back home with many hearts in thrall, and then jilt their impoverished lovers one by one, like the bee that abandons the honey less flower. Is it not the duty of a Prince to make such women keep to their profession and put an end to their sophistry ?"
+
+
+
+Udhaya-kumaran's mind was changed by these words, and he ordered his chariot at once, and reached the public almshouse in Chakkaravala-kottam, where Manimekalai stood like a Goddess, bowl in hand, feeding the poor. The Prince wondered why she, who inspired him with such overwhelming passion and reigned,   supreme in his heart, took to a life of penance and fasting and carried a beggar's bowl. He walked up to her and asked boldly: “Tell me, fair maid, why have you, taken vows of penance, and why do you lead such a life?”
+
+
+
+“This is Raghulan, my beloved husband," thought Manimekalai within herself. “ And even if my heart is unconsciously drawn to him and he takes my arm now, it is but meet that I should salute and reply to him." So she saluted him and said in a trembling voice: “I shall answer you, if you will hear me with an understanding heart. Realising that the human body is liable to birth, old age, disease and death, and is a veritable receptacle of woes, I have taken to this life of penance and service. Is there need for a woman to counsel valiant heroes ? You have heard me. Now do what you will."
+
+
+
+Then Manimekalai left him, and entered the shrine of Sampapathy, sculptured by the Gujjaras. She worshipped the Goddess there, and thinking that the ways of men were strange, and mistrusting the Prince, she sought to disguise herself, for greater safety. So by virtue of the mantram taught her by Manimekala-Devi, she assumed the form of the gandharva woman, Kayachandika, and went about her work of charity.
+
+
+
+The Prince soon followed her into the shrine of Sampapathy, and not finding her there, exclaimed: “What a marvel is this that Manimekalai has suddenly disappeared, handing over her bowl to Kayachandika ! Perhaps she is hiding among the statues here, but how shall I discover her? If you do not show her to me, O Goddess, I shall lie before your altar here, even though many days should pass. With lips like red coral, teeth like pearls, unpainted eyes beautiful as the long carp, and brows like bent bows, with a face like the full moon and voice sweeter than the lute, and wise of speech, the mistress of my heart has entered thy shrine, proud of having captured a new elephant in her love-hunt. I swear by Thy feet, O Sampapathy, that I will not leave this place without her."
+
+
+
+As the Prince saluted the feet of the image of the Goddess and declared his vow, the Oracle of the Pillar opened its lips and said : “Prince ! you have taken a rash and thoughtless vow before our Liege Lady here. Your oath is in vain."
+
+
+
+The Prince was confounded at these words, and thought: "" The vision that reminded me of my duty as a Prince, and warned me to forget Manimekalai, is wonderful. The never-failing bowl she carries in her hand is wonderful; and the speech of this stone idol is also wonderful. Time alone must explain these wonders and Manimekalai's conduct." The Prince then left the place, still a victim to his passion.
+
+
+
+The radiant Monarch of Day was vanquished and driven away by the dark elephant, Night, which then took possession of the city. The sweet sound of lutes played by happy lovers pierced the Prince's love-sick heart like an arrow as he passed along the streets. He could hardly control the passion violently raging in his bosom, and his heart heaved in sighs like a furnace.
+
+----------------------
+
+
+Chapter XIV :  Prison-House turned Home of Mercy  
+
+
+“Pray for your brother, if you well, but judge
+
+not a fellow-creature."
+
+
+
+AFTER the Prince had left the shrine and returned home, Manimekalai feared that he would somehow carry her off if he again saw her in her own form as Madhavi's daughter and decided to continue in the disguise of Kayachandika, who was well known in the city. So she remained in the same disguise and went about as Kayachandika everywhere with the Sacred Grail, feeding the poor and the hungry, and seeking out the suffering and the needy in order to help them.
+
+
+
+One day she entered the prison-house of the city, where offenders against Law and the King underwent punishment. She pitied and spoke to them kindly, and fed from her bowl those of them who were hungry.
+
+
+
+The prison-guards, who noticed that she had but one small vessel in her hand, and fed many without replenishing it, reported the marvel to the King. The King, with his Queen Seerthi, a daughter of the ancient and imperial house of Maha-Bali, was at the time in the pleasure-garden of the palace with his retinue. Trees, plants and creepers, rich with fragrant foliage and flowers abounded in the royal park. The pleasant hum of busy bees resounded everywhere. Peacocks spread out their brilliant plumage and danced, and bulbuls warbled sweetly. Swans in pairs flew up from their lotus-seats in the tank to their nests in the trees, with their wings lovingly united. The royal couple laughed to see how a monkey sat on a swing meant for the ladies of the palace, while his mate rocked it to and fro. The members of the royal household, consisting of actors, playwrights, minstrels, drummers, flutists, singers, and attendants skilled in stringing pearls and weaving garlands of flowers, in pre-, paring sandal paste and painting pretty designs in colours on the body, were there, attending on the King and Queen, or enjoying themselves. This large retinue was as a mirror to the King, faithfully reflecting his different moods on their own faces. In another part of the park the short-footed mongoose, the long-eared hare, the scared antelope and the wild goat merrily ran about and gambolled. The King called gaily to some of these animals and showed their frolics to the Queen. In the cool south wind of early spring-time the royal couple strolled leisurely about the park, among the artificial hillocks, waterfalls, pump-wells, secret chasms, open tanks and flowery bowers, with only the God of Love for company. After they had thus enjoyed themselves for some time, the King entered a mantap in the park and took his seat on a throne-chair in it. This magnificent mantap was resplendent with gold, coral, pearls and precious stones, and was the marvellous joint handiwork of expert diamond cutters from Maghada, goldsmiths from Maharashtra, artificers from Avanti, carpenters from Yavana and skilled craftsmen of the Tamil country.
+
+
+
+The prison guards were duly announced to the King and were admitted to his presence. They stood and saluted him at a distance and praised his valiant exploits in war.
+
+
+
+“Hail Mavan-Killi !" they exclaimed, “ May you live in glory for ever! May our King live for aye and may his foes perish! Hear this, o noble monarch ! A woman who used to wander about the city suffering from elephant fire,' a stranger from the north, has come to the prison-house. She has a single alms-bowl in her hand, out of which, hailing your great name, she feeds a swarm of hungry people, even till
+
+they are tired out with receiving. We came to tell you of this miracle. May our King protect the world and live for ever!”.
+
+
+
+The King marvelled at what he heard, and commanded eagerly that the woman should be brought before him at once. So the guards led Manimekalai to his presence, and she hailed him with "May the mercy of the valiant king last for ever!" .
+
+
+
+“Who are you of mighty penance ?” asked the King; ".And where got you the vessel you carry in your hand?”
+
+
+
+Manimekalai replied :" May you live long, O King! I am a gandharva* woman, and I wander through this festive city in disguise. This alms-bowl was given to me by a Goddess. It is divine, and it has cured the malady of insatiable hunger. It is indeed a boon to all creatures. Long live the King! May the rains never fail and may plenty increase on earth! May no evil approach the King.”
+
+
+
+"Can I do anything for you, fair one?” asked the King kindly.
+
+
+
+“Destroy that prison-house, I pray you," replied Manimekalai, " And make that place a Home of Mercy, fit for saintly and righteous men."
+
+
+
+The King granted her wish; and by his command and Manimekalai's kindness, the prisoners were set free and the dungeon of hellish torture and punishment became a Home of Mercy, even as a man born to misery and suffering. may attain wealth and happiness in his next birth by virtue of his good deeds. There were now within the walls of the Home a temple dedicated to the Wise One, a monastery for pious 'and charitable monks, a kitchen and a dining-hall; and the Home was freed from all taxes by the King's order, carefully looked after and richly endowed.
+
+
+
+* One who can fly through the air.
+
+----------------------
+
+
+ Chapter XV  : The Murder of the Prince  
+
+
+"Good Heaven defend the souls of all my tribe
+
+from jealousy!"
+
+
+
+PRINCE Udhaya-kumaran heard of all these happenings, and went again to the public alms house in Chakkaravala-kottam where Manimekalai was feeding the poor as before. He still yearned for her and hoped to possess her. * Wise men may scorn me and the King may be angry," said he to himself, “Still I shall go to her when she is alone. I shall set her on my golden chariot, and hear her tell of the magic arts she has learnt, and listen to her wise and sweet speech."
+
+
+
+Meanwhile the gandharva, Kanchana, the husband of Kayachandika, was anxious because his wife did not return to him, though the twelve years of the curse that she incurred on the bank of the jungle-stream near the cloud-capped Podhya hill were over. So he came to the city of Kaveripatnam, and searched for her in all the temples, monasteries, groves, squares, and other public places, and eventually came upon Manimekalai, in the form of his wife, feeding the poor in the public alms-house. He went up to her eagerly and asked: "How is it you are able to feed so many out of this one bowl? Did the Gods give this to you to cure you of your insatiable hunger ?" And he spoke to her of many other things, assuming their old relationship and mutual love.
+
+
+
+But Manimekalai paid no heed to him, and leaving him and going to where the Prince stood, she pointed out to the Prince an old hag there and addressed him in these words : “See how the beautiful ebon curls on her head have become white and sparse! Look at her wrinkled forehead that once was radiant like the crescent moon! The stately brows, arched like a bow, are grey, and are shrunken now like dried shrimps! Behold the eyes once bright and beautiful as the red water-lily, how misty with rheum they are, and see how moisture oozes out of the pretty nose! Note her teeth that once shone like a row of pearls; they seem quite other now and resemble rather the seeds of the bottle-gourd. Do you notice, Prince, how the bright red coral lips are foul now with matter streaming down as from an unclean sore? Observe, again, the stoop of the once graceful shoulders, and the imperial moulded form', now a bag of mere skin and bones, bent almost double! Can you recognise to-day, in the form and features of this miser able old woman, any of the beauties and charms of her youth, which enslaved the hearts of all who beheld her? This, O Prince, is the truth about the human body. It has to be disguised with scents and flowers, and artfully dressed up and decked, to look handsome and attractive. From times of old, this is how men have been deluded and beguiled as to its real nature."
+
+
+
+Thus did Manimekalai earnestly discourse to the Prince, observing which from a distance, Kanchana thought within himself: "I love her and solicit her favour, yet she does not listen to me at all, but follows and addresses another. She speaks seemingly wise words to the Prince, but her look and smile and manner betoken sympathy. Belike he is her lover, and that is why she has been staying here without returning to me." Wrath, hatred and jealousy flamed in the gandharva's heart at this thought and, sword in hand, he hid himself in a corner of the building, like a snake in its hole, and bided his time.
+
+
+
+The Prince too had not yet given up the desire of his heart, but thought: “This is Manimekalai herself, who, by some magic art, has taken the form of Kayachandika, and . carries the bowl. There was a stranger here speaking to her in an aggrieved tone and of a common past; so I
+
+think she will stay here for the night. I shall come again at midnight and learn more of this." He returned to his palace for the time, afflicted with the pangs of love.
+
+
+
+Then at midnight, while all the city slept, he rose, like the tiger desirous of hunting the elephant, and went out alone, past watch and ward. Soon he neared the alms-house where Manimekalai was, like one who approaches the lair of a venomous and angry serpent. The air wafted before him the sweet fragrance of the sandal paste on his body, and with fateful steps he entered the alms-house. “Here he has come to her at last!” thought the gandharva, who was already in hiding there, and he sprang upon the Prince, like the hooded cobra which darts up in wrath with its gleaming fangs, and with one blow of his sword cut off his arm. Then he rushed towards the supposed Kayachandika to carry her off, when the Oracle of the Pillar cried out: * Forbear, forbear, O gandharva ! This is Manimekalai, disguised as Kayachandika. Listen to what happened to your own wife as she flew through the air, after her long and insatiable hunger was cured. The devas, while flying, never go over the crest of the Vindhya mountains where Durga has her abode, for she would feel insulted by it and would draw in by the shadow and swallow up the offender in her great wrath. Your wife flew over the crest and was destroyed. Do not act thoughtlessly, O Kanchana, but listen. Though Prince Udhaya-kumaran has died according to his fate, you who caused his death will have to suffer for and pay the penalty of that sin."
+
+
+
+'Thus spoke the Oracle, and the gandharva, with sin and remorse tormenting his heart, rose and left the place.
+
+
+
+Then Manimekalai, who was inside the shrine of Sampapathy a little to the west, came out on hearing the words of the Oracle, and saw the Prince lying dead.
+
+
+
+“ Accursed be this disguise !” she cried bitterly, and putting it off and assuming her own form, she mourned for the Prince in the agony of her heart. “When you died of snake bite in our past Birth, I mounted the funeral pyre with you and gave up my life to the flames. Because my heart yearned for you when I saw you in the Upavanam, Manimekala-Devi removed me to Manipallavam, showed me the Holy Seat of the Seer of Freedom and told me of both our past lives. Thus knowing you as my husband that was, I felt kindly towards you. I took on the form of Kayachandika only for your sake to tell you of the transistorizes of life, the bliss of righteousness and the misery of sin, and to guard you from evil. But, alas! my lover, my efforts have been all in vain, and I see you dead now, slain by the sword of the gandharva, in the blind wrath of his jealousy.” Thus she wept and bewailed him piteously in the anguish of grief, and then went near the corpse.
+
+
+
+“Stay, maiden, stay," called out the Oracle again, “Go not near the Prince. He was your husband and you his wife, not only in the last birth, but in many previous births before it. But you wisely seek now to break the bondage of birth for ever; you should not, therefore, grieve for his death."
+
+
+
+Manimekalai then walked to the pillar of the Oracle and said: “I have heard people say that there is a Deity in the image on this pillar, who declares the truth to all. Are you that Godhead? I salute your holy feet. If you know the cause, I pray you; tell me why he died untimely of snake bite in his last birth, and why now, to my intense sorrow, he has died, by the gandharva's sword."
+
+
+
+"Listen, fair one," said the Oracle. "On the bank of the river Kayankarai, you and your husband Raghulan met the holy sage, Brahma dharman, and offered him your hospitality, which he accepted. You then ordered your cook to prepare and have the food ready early in the morning. He did so, but while bringing the food, he slipped in his eagerness, stumbled and fell down, and broke the rice pot. Angry at the inconvenience thereby caused to the pious sage, Raghulan cut off the cook's head with a blow of his sword. The fruit of that evil deed still pursues you and Raghulan, and this is why he met with an untimely end by snake-bite then and by the sword now. Those who say that God will save us from the effects of a sin com mitted in His service do not know the truth. Though a man may love righteousness, yet must he undergo punishment for the sins com mitted by him. The doer can never escape the consequences of his deeds, good or evil."
+
+
+
+Then the Oracle went on to predict in detail the future incidents of Manimekalai's life and how in her last birth she would become the fore most disciple of Buddha and attain Nirvana.
+
+
+
+Having thus been told of the past, with the chain of events leading to the present, and having learnt from the Oracle the high destiny that awaited her in the future, Manimekalai grieved no more, but felt like the peacock which has escaped out of the hunter's net.
+
+
+
+Then the sun rose in the east, awakening the sleeping world,
+
+---------------
+
+
+Chapter XVI : Manimekalai is Imprisoned 
+
+
+“ Man's evil star is woman • but for her love
+
+Unknown were sin and hell, and Earth like Heaven above."
+
+
+
+AT break of day, those who came to worship Sampapathy and the Oracle of the Pillar saw the dead body of the Prince lying there with the arm severed and went and informed the holy men living in Chakkaravala-kottam. The holy men asked Manimekalai if she knew aught of it, and she told them
+
+what had occur red overnight. Then they hid the corpse, asked Manimekalai to wait in a secret place, and themselves went to the King. They were duly announced and admitted to his presence.
+
+
+
+“Mighty Monarch! May your white royal , umbrella, towering like the full-moon on high, shelter the world! May your spear and sceptre shine in mercy! May your reign be without evil! And may the years allotted to you pass pleasantly!" After thus greeting the King, one of the holy men said to him:
+
+
+
+"Not only to-day, O King, but in the past also, many have given way to unlawful passion and tried to woo by force chaste wives and pious women of penance in this city and have paid the penalty of life for their sins. In former times, when Parasurama declared mortal enmity to all Kshattryas and warred against them, King Kanthan of this city was warned by the guardian spirit to fly from his wrath. So the king chose the brave warrior Kakanthan, his own natural son by a dancing-woman, to rule in his absence, and said to him: 'As you are not a Kshattrya born to rule, Parasurama will not molest you. Guard this city well during my absence and until Agasthya advises my return. Protected by you, Kakanthan, let this city be known also as Kakanthi. Then the king left the land in disguise and Kakanthan was regent in his stead.
+
+
+
+“One day the younger son of King Kakanthan saw Marudhi, a Brahmin woman, returning after her bath in the Kaveri river. As she came all alone, he suspected her character, , and seized with sudden passion, he invited her to yield to him. Marudhi was alarmed, and took refuge in the temple of the guardian spirit of the streets. She thought with grief: 'If I am a pure wife whose chastity could command rain, I would not have inspired unlawful passion in the mind of another man. But this man has desired me, and I am therefore unfit any longer to tend the sacred fire in a
+
+Brahmin house.' Then, without going home, she turned to the image of the guardian spirit in the temple and said: 'I have not offended against my husband in any way; yet I easily entered the heart of a stranger. I have ceased to be a chaste wife, who can command rain; yet I myself do not know what fault I have done. Are you false, O Goddess, and do you not guard the city and punish hypocrites and evil doers?' Thus she cried and appealed to the Deity. Then the Deity appeared to her and said: • Listen, fair one: you have not rightly understood the spirit of the saying of the truth poet (Thiruvalluvar) that at the bidding of the wife who knows no other God save her husband, the clouds will pour down rain. For you are not such a wife. You take pleasure in gossip, slander and jests : you love to see dances and festivals and you go to temples to worship the Gods. Surely, the clouds will not rain at your bidding. Nor have you the power to kill desire in the heart of a stranger: that is possible only for heroically chaste women. If you will give up your frivolity and love of pleasure, you will then be able to command the clouds, and I cannot harm you, as I do wanton women. It is the King's right to punish offenders within seven days; if he fail, it will then become my right to punish them. But King Kakanthan will hear of this and punish the young man who unlawfully desired you, in seven days more.'
+
+
+
+“Thus ended the guardian spirit, and so it happened, O King, for the immoral young prince suffered the penalty of death by his father's own sword within the week. Listen again, great King!
+
+
+
+“In this city lived a handsome young merchant named Dharmadhattan and his maternal uncle's daughter, Visakai, a damsel of surpassing beauty. They loved each other and used to spend many hoars together in innocent and pleasant companionship. But as they were first cousins, there was a scandal started in the city that they had anticipated the formal rite of marriage. Unable to bear such a slur, Visakai left her home, went to the public alms house and appealed to the Oracle of the Pillar there to clear her fair name. In the hearing of many citizens, the Oracle declared her immaculate, and praised her as one who could command the clouds to rain. But the maiden herself was not satisfied. "If the Oracle had not proved my innocence,' argued she, “the people would not have believed in me. After such a suspicion, I will not wed my dear cousin in this life, but I shall become his wife in our next birth.'
+
+
+
+“Taking this vow before her mother, she entered a convent and lived in penance as a nun. Then Dharmadhattan praised the Oracle for having vindicated his fair fame, and leaving his native city with his parents, went away to the wealthy town of Madura in the south. He vowed within himself to wed no one but his cousin Visakai in this birth. He amassed great wealth by fair trade. He was honoured by the Pandyan king with the title of Etti,' and lived in Madura till he was sixty years of age. One day a Brahman said to him: What do you do here in this city, still .unmarried ? And what boots all your vast wealth ? Have you not heard that, howsoever charitable a man may be, he cannot enter Heaven if on earth he has no wife or child ? If you have heard it, go hence quickly to your native place and get married before you grow older.'
+
+
+
+“So Dharmadhattan left Madura with all his wealth and returned to this city. When Visakai heard of his arrival, O King, she came out of the convent without any shame and went publicly to meet that truthful and righteous man.
+
+
+
+"We can hardly recognise each other now,' said she to him. Where have those charms which infatuated us with love in our youth hidden themselves ? You are six decades old, and my hair is grey. Our former youth and love, where have they hid themselves ? Tell me if you can, my dear cousin. In this life I am not for you: but in the next birth, I shall surely become your wife. Youth will not last, this
+
+body will not last, riches will not last, and no son can open the gates of Heaven for his father. The only help for man is the good that he does to others. Therefore, I advise you, spend your wealth in charity and service.'
+
+
+
+“Dharmadhattan laid all his riches before his uncle's daughter, and the works of love and charity they both did in their days were countless as the stars in the sky.
+
+
+
+“There is another story relating to that maid en Visakai, who remained celibate for life. When she was returning home from the alms house along the streets, in the midst of a large and admiring company, and after the Oracle had proclaimed her innocence and purity, King Kakanthan's son, the elder brother of the youth who perished by his unlawful desire of Marudhi, saw her and at once conceived a vehement passion for her. He sought to declare his love and claim her for himself, by taking a garland of flowers which he was wearing and throwing it round her neck. But when he raised his hand to his head to detach the garland, lo! his hand stuck to his head and could not be brought down. Such was her virtue. When King Kakanthan came to hear of it, he drew his sword and slew the wicked young man in his righteous anger, though he was his own son. May our King protect the world and live forever!"
+
+
+
+When the holy man thus ended his speech, the King asked: “You began, reverend sir, by saying that such things happened not only now, but also in the past. * Tell me, is such evil conduct still prevalent in my city ?”
+
+
+
+“Let our victorious and valiant monarch hear, and may his sceptre never bend towards evill' replied the holy man. “There are five deadly sins condemned by wise men : drink, falsehood, theft, murder and lust. Men of lust cannot avoid the other four sins, but they who restrain their passions will be free from the other sins, and only they are men of perfect penance and righteousness, while those
+
+who are subject to lust have to pay the penalty of their sins by many years of suffering in hell. Chitrapathi's daughter, Madhavi, unable to bear the cruel death of her lover, has given up worldly pleasures and entered a monastery. Her daughter, Manimekalai, though still very young, has taken to a life of penance and service, and lives in the public alms-house, begging her food at cottage and mansion. Even when such is her nature and mode of life, Prince Udhayakumaran lusted after her. He followed her everywhere like her shadow, and fearlessly came into the alms-house at midnight. Knowing this, Manimekalai disguised herself as Kayachandika. As Kayachandika was also in the alms-house, her husband, a gandharva, came there; and mistaking the disguised Manimekalai for his own wife and the Prince for her lover, he drew his sword and slew the Prince in his jealous wrath. The evil fate of the Prince has brought about this tragedy of errors and coincidences, ending with his murder by the gandharva."
+
+
+
+When the holy man had done speaking, the King turned to the general who was in charge of the royal signet-ring and said: “It was not right of the gandharva to take the King's justice into his own hands, for the King is the guardian of the penance of rishis and the honour of women. It was a Chola king who vindicated justice by ordering a chariot to be driven over the prostrate body of his only son who had rashly driven his own chariot over a calf and killed it. So, before other kings of the earth hear that such a wretch was born now in such a line, take the body of the wicked prince and have it burnt; also, place in custody the daughter of the dancing-woman."
+
+
+
+And as the King commanded so was it done.
+
+--------------
+
+
+ Chapter XVII : Manimekalai is released  
+
+
+“Stone walls do not a prison make,
+
+Nor iron bars a cage :
+
+Minds innocent and quiet take
+
+That for an hermitage."
+
+
+
+IT was the duty of Vasanthavai, an old woman, to console the royal family, (king, prince or queen), when in any trouble, with wise words and parables suited to the occasion, and the King now sent her to console the Queen. On seeing the Queen who had just lost her son, this woman did not fall down at her feet and weep in sympathetic distress, but saluted and invoked God's blessing on her, and then said: “Even after they had protected their own subjects and conquered and annexed the lands of their enemies, it has ever been held a shame by the kings of this royal house to grow grey and die in bed of old age and attain the heroes of heaven through the rites and prayers of Brahmans, instead of dying on the field of battle. My tongue refuses even to speak of such an ignoble fate for one of this house. But your son has fallen now not in defending his native soil, nor in the conquest of the enemy's country. Grieve not, therefore, for him, in the presence of your royal husband, whose duty it is to protect all life justly and righteously.”
+
+
+
+After the old woman had thus consoled her and was gone, the Queen held in check her helpless grief and seemed outwardly calm and resigned: but in her heart she longed to revenge herself on Manimekalai.
+
+
+
+So she said to the King one day: “The Prince foolishly lost his heart to a nun who cannot belong to any man, and he was therefore unworthy to rule. He deserved the cruel fate which overtook him; and it is not right, O righteous King, to keep in prison the beautiful maiden, who in her wisdom has taken to a life of penance even in the flush of her youth."
+
+
+
+"If you think so," replied the King," and realise the wisdom of the saying that kings should look upon only the worthy and the righteous as their own children and deny the rest, you may release her.'**
+
+
+
+"Let her remain with me, or, if she will, let her take up her bowl and go about begging as before," said the Queen to the King; and she freed Manimekalai from prison and took her into the palace with her.
+
+
+
+Then a cruel thought entered the mind of the bereaved and revengeful Queen, and she planned to drug Manimekalai secretly into madness. But Manimekalai knew the past and the future and her understanding was unclouded by the drugs administered to her by the Queen. Then the Queen bribed a senseless young man with a handful of gold, and sent him to Manimekalai to dishonour her in the world's eyes. But Manimekalai had guessed the Queen's deceit, and when the young man entered her room he found her sitting in the guise of a man, by virtue of the spell she knew; and as no man was admitted into the women's apartments of the palace, he suspected treachery and lied in fear.
+
+
+
+Thus disappointed in her schemes, the Queen thirsted more and more for revenge on her who, she thought, was the cause of her son's death. So she shut up Manimekalai to starve in a dungeon, giving out falsely that she was ill and could eat no food. But as Manimekalai knew the mantram which could ward off hunger, she suffered no whit for lack of food. On seeing this, 'the Queen trembled with awe and fear, and bowed to her and said: “I could not bear the sorrow of my son's death and I did these ills to you. Forgive me, I. pray you."
+
+
+
+“In the last birth,” replied Manimekalai, * When your son was born as Raghulan, son of Neelapathi, and died by snake-bite, I who was his wife could not bear to see it and mounted the funeral pyre with him. Where were you then ? and did you weep for him ? Your sorrow for the Prince now is thoughtless. Do you mourn for the body or for the soul ? If you mourn for the body, why did you have it taken up and burnt on the burning-ground ? If for the soul, it is indeed hard to guess what new form the soul takes after death, according to the measure of good and evil it has done on this earth. If you love your son's life, O Queen, you should be full of love for all lives on earth. I will tell you the reason for your son's untimely death. It was because he un justly killed a cook in his anger in his former life that he died of snake-bite then, and was slain by the gandharva's sword now. You may ask how I came to know all this; listen, then." And Manimekalai told the Queen all that happened to her from the day she entered the Upavanam to the day of her imprisonment.
+
+
+
+“You sought to make me insane by your drugs,” she continued, “but I knew the past . and the future, and my senses remained clear. I knew the mantram to change one's form at will, and so I seemed a man to the ignorant low fellow whom you sent in the dark into my chamber. Then you shut me up to starve, but I know another mantram which wards off hunger. Though you thus plotted to harm me in many ways, still I was anxious to relieve your sorrow, that your ignorance and pride should cease and that your thoughts should be turned from evil, because you are the mother of him who was my husband. That is why I did not escape hence, as I could easily have done, by taking another form and flying through the air. Listen, Queen. The five deadly sins cause much suffering on earth, and must be shunned. The wise never give way to anger. They alone can be said to live in this world who serve and help their poorer fellow-men; and they who relieve the hungry here know best what would truly stead them in the next world. Without these virtues, mere knowledge and learning are of no avail. To love all creatures and serve them in their need, this is the highest virtue, wisdom and penance on earth.”
+
+
+
+With such wise words and other moral stories, Manimekalai put out the fire of sorrow . raging in the Queen's heart. Then the mind of the Queen became clear and calm, like turbid. water treated with the clarifying nut, and she saluted Manimekalai's feet. But Manimekalai would not allow it and said; “ It is not meet that you, who are not only the mother of my husband, but also the wife of the great King, should thus do reverence to another," and in her turn she saluted the Queen.
+
+
+
+By this time Chitrapathi had heard, with trembling, of the murder of the Prince whom she had egged on to woo Manimekalai and of Manimekalai's imprisonment. So she went and fell at the Queen's feet, beseeching her to set her grand-daughter free, and said: “From of old, great Queen, no dancing-woman has ever suffered more than I have. My daughter, entering, a monastery on hearing of her lover's death, and my grand-daughter, also a dancing actress, going about with an alms-bowl from door to door, have made me the laughing-stock of the whole city. But I came to tell you that, besides the murder of the Prince, another great calamity threatens this city through Manimekalai. The King once met a beautiful maiden in a grove of laurel trees on the sandy sea-shore adjoining the salt-pans of this city. He did not know who she was, nor did she ever tell him; but he fell in love with her at first sight, and they both lived together happily there for a month and more. Then, one day, she suddenly disappeared, and the King, in great grief, searched for her everywhere in vain. After some days, the King met a Charana, who could dive into the earth, rise into the sky or wander through water at will, and prayed him humbly to give him news of the lost lady,
+
+
+
+“I have not seen her,' replied the Charana, * but I know of her. She is the daughter of King Valai-vanan and Queen Vasa-mailai of Naganadu, and her own name is Peeli-valai. On the day she was born, an astrologer predicted that she would bear a son to a monarch of the solar line, and so it has happened. Your son by her will be sent to you in due time, but you will never more see her. Cease grieving for
+
+her. He also warned the King never to neglect the festival of Indra, for Manimekala-Devi had declared that the sea should swallow up the city if that festival was neglected.” “You know, Queen," continued Chitrapathi, “that there is an ancient curse on this city, that the waves of the sea shall one day submerge it. So the citizens live in constant fear of that doom and are anxiously mindful of the festival. My heart misgives me now lest any harm should befall the city through the wrath of Manimekala Devi for the imprisonment of her namesake, , Manimekalai.” Then Chitrapathi learnt that her grand-daughter had already been set free, and she begged the Queen to send her to her own house.
+
+
+
+“Your grand-daughter has given up the profession of your caste, ” replied the Queen, " because it is based on the five deadly sins condemned by the wise. She will not return to your evil ways. She will remain here in the palace with me."
+
+
+
+Meanwhile, Madhavi too had heard of her daughter's imprisonment, and with great grief and trepidation had gone with Suthamathi to the sage Aravana, to plead for his intercession with the Queen for her release. They were now announced, and on seeing the sage, the Queen and her attendants, Chitrapathi and Manimekalai, all rose and saluted him reverently. He blessed them with “May you become wise !" The Queen then offered the sage a seat of eminence, and entertained him with all honour and respect.
+
+
+
+“We are blessed to have received a visit from Your Holiness," said she. “Your tongue indeed never tires of wise speech. May your aged body last for many years more !"
+
+
+
+The holy man answered ; " Hear, O Queen!• Though I live yet in this body of much penance, I am like the setting sun."
+
+
+
+Then he taught them many truths of Buddhism, and telling Manimekalai that he would expound to her the Buddhistic philosophy after she had first heard from others the doctrines of other religions, he rose to go.
+
+
+
+Manimekalai saluted him, and said to the Queen and the rest there: “May you all hold fast by his wise precepts and act up to them! As for me, I shall not remain any longer in this city, where everyone will point me out here after as she who caused the death of the Prince. Fear not, dear ones, that any harm will hap pen to me.”
+
+---------------------
+
+
+ Chapter XVIII : Manipallavam Revisited 
+
+
+"Nay, but as when one layeth
+
+His worn-out robes away,
+
+And, taking new ones, sayeth,
+
+These will I wear to-day
+
+So putteth by the spirit
+
+Lightly its garb of flesh,
+
+And passeth to inherit
+
+A residence afresh."
+
+
+
+THE sun set in the west like molten gold. Manimekalai, having taken leave of her mother, the Queen, and others at the palace, went to the alms-house to worship Sampapathy and the Oracle of the Pillar and take leave of the holy men there. Then she rose and flew through the air and finally alighted in a grove in the Land of the Chavakas, on the outskirts of a city. She saw a holy sage in the grove, and saluting him, asked what city it was and who ruled it.
+
+
+
+“This is the city of Nagapuram," answered the sage, " And the king is Punnya-rajan, son of Bhumichandran. From the time of his birth, rain has never failed in this land; the * earth and the trees have yielded to men their best;, and no creature has suffered from sickness or hunger here.” Thus he praised the justice and righteousness of the King.
+
+
+
+As they were conversing, Punnya-rajan and his Queen came to the grove and saluted the holy sage, whose name was Dharma-savakan. The sage thereupon discoursed to them on the religion and philosophy of Buddha. The King noticed Manimekalai and asked: “Who is this young woman of matchless beauty, who has a serene unworldly look, carries an alms bowl, and listens so intently to the discourse ?”
+
+
+
+The officer in attendance on the King replied: “ Sire! When I went by sea to Kaveripatnam on a friendly embassy to King Killi, I heard from the holy sage Aravana there the history of a wonderful young woman who was without a peer in the land. I told you of her then; this is she, and she has left that city and come here now."
+
+
+
+Manimekalai then addressed the King and said: "It is your bowl that has come into my hands, Aputhra, though blinded by your royal state you do not know this now. But even if you have forgotten your last birth, know you not how you came into this life too? Come to Manipallavam and worship the Holy Seat there, O King, and then you will know the nature of this bondage of life.” Having said this, she rose into the clear sky and flew away to Manipallavam, which she reached before the sun set. She saw the whole past as in a vision on worshipping the Holy Seat again, and the words of the sage Brahma-dharma to her on the bank of Kayankarai in her past birth, seemed to sound in her ears now. She wondered much at this and remained in the island.
+
+
+
+Meanwhile Punnya-rajan went back to his city from the grove and inquiring of his mother Amarasundari, the dowager-queen of Bhumi chandran, learnt the truth of his miraculous birth from a cow and how he was merely their adopted son. He now wished to abdicate his throne and take to a life of penance, feeling inwardly that the good seed sown in his mind by the holy sage Dharma-savaka was fit to bear fruit, through Manimekalai's advent. But his chief minister, Jana-mithran, objected to it and said: “Hear me, my King! There was drought and dearth in this land for twelve years before you were born. Food was so scarce that the hungry mother pitied not her own crying child, but ate by herself. Then you came like rain in scorching summer. Ever since your birth the land has known no dearth and no life has suffered from hunger. When you depart, the whole country will wail like a motherless child. If by abdication and penance you seek the salvation of your own soul, countless lives will perish, and it will be against the precepts of the Lord of Compassion, who never pitied or cared for His own life, but lived only for others. What you desire is therefore utterly perverse and selfish."
+
+
+
+The King heard these weighty words of his minister and replied : “My heart yearns to go to Manipallavam and I must go. Guard my kingdom for but one month, and I shall return."
+
+
+
+So he took ship and reached Manipallavam, and Manimekalai, rejoiced to see him and took him to the Holy Seat.
+
+
+
+On saluting it, he saw all his past at once, as a man sees his own face in a clear mirror. He praised Chinta-Devi, who had first given him the Sacred Grail, once again, hailing her as 'the Goddess of Learning in the Tamil Madura in the South' and as the 'Goddess who purified the tongues of Devas and Brahmans and whose holy feet he could never forget and was always bound to worship, birth after birth.'
+
+
+
+He then went, with Manimekalai to the Gomukhi tank and they rested under the shade of a tree there, when Dwipa-Thilaka, the guardian of the Seat, came to them. She said to the King: "Have you come here again, a magnanimous man, who relieved the pain of numberless creatures with the elixir of life from the divine bowl! Look at these bones : they are the mortal remains of the nine merchants who came back here seeking you, when they discovered that you had been left behind by a mistake. They gave up their own lives too on learning that you were dead. Yonder lie the bones of their followers, who mourned for them and died here. And underneath that lofty mound of sand cast by the waves, and shaded by the fragrant laurel, you will find the skeleton of the body, O King, which bore your own former life. Alas! you killed yourself, and you became the cause of death to those who came here out of pity for you. Are you not then a murderer who are a monarch now?"
+
+
+
+Thus she spoke in sadness to the King; and turning to Manimekalai, she said: “Your great city of Kaveripatnam, fair one, is no more. The sea has devoured it. Hear how it came about. A beautiful princess of Naganadu, who had been the King's love and borne him a son, came here with her child to worship the Holy Seat. At that time the ship of a wool merchant of “Kaveripatnam was anchored here. The Princess gave her child to the merchant, telling him that it was the King's, and bade him take the boy to him. He gladly agreed and took the child; but on the way the ship ran ashore in the dark and was wrecked, and the child was lost. The crew reached the city and told the King of the mishap that had befallen his son. King Killi was greatly grieved at the news, and like a nagam that had lost its jewel, he wandered distractedly on the sea-shore searching anywhere for his child. So the festival of Indra was neglected, and the curse of Manimekala-Devi fell on the city, and the waves of the sea rose in wrath and submerged it. The King has gone away to another place by himself, and the holy Aravana and your mother and Suthamathi have safely reached Vanji. I heard all this from Manimekala-Devi herself." Having said this, Dwipa-Thilaka left them.
+
+
+
+Then Punnya-rajan dug deep into the sand and saw the shrunken skeleton of his former body, looking as if it had been covered over with white plaster. He felt giddy and dazed at the sight of it and Manimekalai comforted him. She said that she had brought him to see the Holy Seat so that he might know his past, and his great name and fame might be established in all the lands. If only kings were righteous and merciful, there would be no wrong to be set right on earth.
+
+
+
+The King then expressed his great gratitude to Manimekalai and was loath to leave her. But she reminded him that his country was crying aloud for his return, and persuaded him to sail back home, while she herself took flight towards Vanji.
+
+----------------
+
+
+Chapter XIX  :  "A Tale of Two Cities" 
+
+
+“The fixed arithmetic of the Universe,
+
+Which meteth good for good and ill for ill ;
+
+Measure for measure, unto deeds, words, thoughts ;
+
+Watchful, aware, implacable, unmoved ,
+
+Making all futures fruit of all the past.”
+
+
+
+EAGER to see the image of her mother Kannaki, Manimekalai flew through the air to the suburbs of the city of Vanji and entered her temple there. She bowed before the altar, and with tearful eyes prayed that she might hear the reason why Kannaki chose to destroy the city of Madura by fire, instead of committing sati, or leading a life of penance and fasts in widow's weeds, as other chaste wives usually did on losing their husbands. Then the chaste heroine Kannaki spoke through the image and said :
+
+
+
+"I could not bear the cruel and unjust murder of my lord, and so I destroyed the city in my wrath. But the calamity that befell us was the fruit of our own evil karma. Madurapathy, the guardian spirit of the city, told me this. In his former life, my husband Kovalan was a trader in Singapuram in the Kalinga country. His name then was Bharathan. There was war between King Vasu of Singapuram and King Kumara of Kapilai. Bharathan was jealous of a rival trader, Sanghaman of Kapilai. This Sanghaman came secretly with his wife Neeli to Singapuram, through a long tract of prohibited country, bringing with him many valuable goods to sell. Bharathan falsely informed his king that Sanghaman was a spy from Kapilai and had him executed by the king's order. Hearing of her 'innocent husband's death, Neeli committed suicide by throwing herself down a high hill, and at her death she uttered the curse: May a like calamity overtake those who have brought this upon us!' And so in this life Kovalan was unjustly murdered in a similar manner. Even “after Madurapathy had told me of Neeli's curse, my anger was unappeased and I burnt the city. By virtue of our former good deeds, my husband and I are with the devas now. At the end of this, the sin of my impulsive anger will certainly overtake me and I shall have to suffer for it. Thus we shall be born and die again and suffer for our sins, when we have done enjoying the fruit of our good deeds. And the wheel of life and death, and weal and woe, will thus revolve, till the glorious Sun of Buddha rises again in the great city of Kapilapuram the capital of the good land of Maghada, where the rains never fail. Then we shall hear the Truth from His divine lips and attain Nirvana. This final salvation will be ours, because we worshipped at the Buddha's shrine while we lived in Kaveripatnam. As for you, my daughter, you will now hear, in this ancient city, the several doctrines of the various sectaries and be convinced of their falsehood. Then you will hear the teaching of the Buddha from the holy Aravana and be confirmed in the Faith. But as the sectaries will not discuss the ultimate conclusions of their creeds with you because you are a young woman, assume a disguise before you go to them."
+
+
+
+Then Manimekalai saluted the image and left the temple, taking on the form of a holy man. She entered the city of Vanji, famed for its parks and tanks, and for the wise, learned and saintly men who lived in it. The king of Vanji at that time was the celebrated Cheran Chenguttuvan, who, with a vast and mighty host of elephants, chariots, horses and warriors, invaded the North, crossed the Ganges in boats, defeated Kanaka and Vijaya and many another Aryan monarch in battle, and extended the limits of his empire to the very foot of the snowy Himalayas[$]. The time was ripe for Manimekalai to learn the Truth, and she went in her disguise to the ten different schools of sectaries and heard them expound their respective doctrines and articles of faith[#], but she was not satisfied with any of them.
+
+----
+
+[$] Some scholars think that Thiru-Vanjaikkalam (Cranganore) on the West Coast was the Vanji referred to here, while others declare that it was no other than the modern Karur in the Trichinopoly district.
+
+[#] I have wholly omitted the chapter relating to non-Buddhistic creeds and the last two chapters in which the tenets of Buddhism are set forth The curious reader who delights in dialectics is referred to the original.
+
+------
+
+
+
+Manimekalai then put off her disguise and searched all over the outskirts of the city of Vanji for the holy Aravana, Madhavi and Suthamathi, but in vain. The city was surrounded by a deep and wide moat which was covered over with many-hued lotuses and water lilies haunted by bees, shining like a rain bow. Into this moat the many private and public drains and water-courses of the city emptied themselves; and so sweet-smelling were the waters with scents, cosmetics, sandal paste, spices and other fragrances, that the very alligators and fish in the moat were inoffensive in odour. The high wall of the fort was defended by many kinds of missile-engines and strongly garrisoned. Between the moat and the wall stretched a low jungle which was carefully guarded, and the cattle grazed there. Crossing these, Manimekalai approached the lofty white gateway of the city, highly wrought, and waving with flags and banners. The gateway looked like a hill of silver which had been tunnelled through. She entered, and wandered about on her quest, wondering at the magnificence and splendour of the city.
+
+
+
+The city guards had their crowded barracks near the gateway. Then came the streets, squares and markets where many kinds of fish and white salt were hawked about and where fisher women sold toddy, and other women pudding and pastry. Sheep-markets; meat-stalls and spice-shops came next. Then were seen the streets of potters, smiths who wrought in copper, silver, gold and other metals and alloys, carpenters, sculptors, artisans, painters, shoe-makers, tailors, garland-makers, astrologers, musicians, bangle-makers, and workers in chanks and pearls, dancing-girls, grain-merchants, minstrels, courtesans, weavers who wove the daintiest fabrics, gold-testers and dealers in precious stones, and trainers of new elephants and horses. The abodes of pious Brahmans, and the mansions of princes, counsellors, generals and other great officers of the state succeeded these. Manimekalai gladly saw all these places, as also the pleasant groves with artificial hills and shady tanks of limpid water, which tempted even the devas to forget their celestial abodes, and the many picturesque public places of charity and learning
+
+
+
+Then she saw a great Buddhist monastery and entered it, and there she found Masathuvan, the father of Kovalan, in the guise of a monk. She saluted him and told him all her story. She said that none of the various doctrines she had heard appealed to her, and that she was now looking for the holy Aravana, to hear the teaching of the Buddha from him.
+
+
+
+"It is indeed my great fortune that I see you now," said the old man. ““On hearing of the dire disaster that overtook your father and mother, I gave up the world and became a monk. My reason for coming to this city was this:
+
+
+
+“One of the ancestors of our house, nine generations ago, was a friend of the king who then ruled here. On a visit to the king, he heard a stirring and eloquent discourse on the teaching of the Buddha from some holy Charanas whom the king had entertained with honour and reverence. The wise words sank into his heart, and in seven days he gave away in charity all the vast wealth which he himself had earned, leaving only his ancestral property to his heirs, and took to a life of penance. He built a stately white temple here in honour of the Buddha, and I came to worship at the shrine built by my ancestor. The holy men here declared that Kaveripatnam was doomed, and would soon be devoured by the sea; and so I remained in this city without returning home. I heard also from the holy men that your father would go round the wheel of birth and death till the Buddha is born in Kapilapuram again and he hears His teaching and attains Nirvana. I too shall be one of those who are privileged to hear Him and be saved then. The holy Aravana is gone to the city of Kanchi (Conjeevaram), as the place best fitted to teach you the faith. Madhavi and Suthamathi are also with him.
+
+
+
+"Listen further, fair one. The golden city of Kanchi is suffering sorely now from drought. Many lives are lost through famine: and with none to give alms there, many of the holy men of that city have deserted it and come away here. Therefore it is your duty, as life sustainers, to go there at once, like welcome rain, and save the suffering creatures.”
+
+
+
+Manimekalai saluted her aged grandfather and rose into the air, with the Sacred Grail in her hand, and flew north towards Kanchi, The great city of Kanchi, which formerly rivalled on earth the celestial capital of Indra, looked poor and barren now, and the sight touched Manimekalai's heart. She reverently circled round it once and then descended in the middle of the city. She worshipped at the temple nearby, built by the younger brother of King Killi in honour of the Lord of the Bodhi Tree. Then she entered the grove to the south west of the temple.
+
+
+
+A liveried officer who saw her went quickly to the King and reported: “The daughter of Kovalan, the maid of good penance, the one without a peer in the lane, has appeared in the “Dharmatha-vanam, like welcome rain, with the Holy Grail in her hand.”
+
+
+
+Surrounded by all his court the King came to where Manimekalai was and said: “Either because my rule is not just enough, or the penance of rishis is not perfect, or women have become less virtuous, there has been no rain for a long while in the land, and my subjects are suffering. I was grieving over this when a Deity, carved on a pillar, appeared before me in a vision and foretold how you would arrive with the divine bowl here, and how your great charity would cause the rains to fall. By command of that Deity I have constructed a tank, with a park round it, to resemble Gomukhi and the gardens at Manipallavam.”
+
+
+
+Manimekalai was well pleased to hear these words, and went and saw the tank and the garden. Then she had a Holy Seat of Buddha placed there ; and at her instance, the King also built temples there for Manimekala-Devi and Dwipa-Thilaka, and these Deities were greatly honoured in the city. Manimekalai placed her bowl on the Holy Seat and invited thither all who were in need of food.
+
+
+
+Of the vast population of that city speaking eighteen different languages, the blind, the deaf, the maimed, the waifs, the dumb, the sick, the pious mendicants, the ill-clad poor, the hungry and all other destitute, and famishing beasts and birds in their thousands, all suffering creatures, in fact, came and gathered round her there, and the more they all ate the more the food grew in the divine bowl and appeased the hunger of all. Then by virtue of such charity, the flood-gates of heaven were opened, the rains poured down and the land prospered as before.
+
+
+
+The holy Aravana heard of these events, and came to the grove with Madhavi and Suthamathi. Manimekalai hastened forth on seeing him and saluted him. She washed his tired and dusty feet, made him sit down, and gave him sweet and wholesome food. She then worshipped him with betel and camphor and prayed for his blessing, 'that all the good she had ever done might avail her in her need!'
+
+-----------------------------
+
+
+Chapter XX : The End of the Story
+
+
+“ So many faiths, so many creeds,
+
+So many paths that wind and und,
+
+While just the art of being kind
+
+Is all a sad world needs."
+
+
+
+THE holy Arvana blessed Manimekalai and then told her how Kaveripatnam was submerged, and how he, with Madhavi and Suthamathi, had left the city and gone first to Vanji, and had then come to Kanchi, in search of her.
+
+
+
+“I heard of it from Dwipa-Thilaka at Manipallavam," she replied, "And then I went to Vanji and heard in disguise what the different sectaries there had to say. None of their creeds satisfied me, and so I have come to you. My hope is in you alone, and I pray you, bestow your grace on me, a humble maiden, and teach me the Truth.”
+
+
+
+Then the holy Aravana taught her the great Law of Life proclaimed by the Buddha, the Lord of Compassion, who was born on earth at the earnest prayer of all the devas and taught the True Faith to men. Manimekalai learnt from him the great Law of Love and Service, and was confirmed in the Faith. She spent the rest of her days in penance and loving service to 'her fellow-creatures, and in earnest prayer to be freed from the bondage of birth.
+
+-------------------
+
+
+
+
+ GLOSSARY : Of non-English words with their meanings indicated.
+
+
+
+chamaras-fly-whisks made of the hair on the tail of a kind of deer.
+
+dèvas-gods, celestial beings.
+
+dharma-duty, of one's caste or position in life; righteousness; religion.
+
+erukka-a plant, calatropis jigantea ; T.S.
+
+gándharvas—a class of semi-celestial beings, able to fly through the air.
+
+jambu-a tree, eugenia jambolana bad.
+
+jujube--a tree, ziziphus jujuba ; D kápálikas-a class of ascetics who use human skulls as alms-bowls and dwell in burning grounds.
+
+karma-consequences of action; unenjoyed residue of the consequences of one's past
+
+deeds; destiny. mantram-spell or charm. mantap-a hall,. more or less open, and generally with many pillars, pavilion.
+
+nágam—a fabulous serpent with a precious gem on its hood.
+
+neecha-a low fellow, an outcaste.
+
+neem-the margosa tree (Cu) azadirachta Indica. pials-open verandahs in front of houses loggias. pulaya-one who eats flesh, an outcaste.
+
+rishi—a great sage.
+
+sathi or sati—a wife who burns herself on ihe funeral pyre of her husband.
+
+sumac-a tree, prosopis spicigera ; aut cuft.
+
+vagai - a tree, வாகை.
+
+yága—a sacrificial rite.
+
+yòchanas, yojanas-a measure of distance, about 9 miles.
+
+---------------
+
+
+
+
+
+This file was last updated on 20 Nov. 2020.
+
+Feel free to send the corrections to the webmaster. 
+
+
+
+
+
