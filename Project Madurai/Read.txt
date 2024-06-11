@@ -1,0 +1,6 @@
+I have extracted all these text using Beautifulsoap Package of Python. 
+Project Madurai List of Works : https://www.projectmadurai.org/pmworks.html
+Licence: 
+© Project Madurai 1998-2000
+Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of
+electronic texts of tamil literary works and to distribute them free on the Internet.
