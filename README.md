@@ -6,3 +6,8 @@ This nTamil project aims to create a comprehensive and high-quality collection o
 - Charles University English-Tamil Parallel Corpus (CC BY-NC-SA 3.0)
 - Oscar 23.01 Tamil Meta Data (CC BY 4.0)
 - Project Madurai (Open to use and Distribute)
+- Tamil Wikisource books (CC BY-SA 4.0)
+- Tamil Mann Nationalized Books (CC BY-SA 4.0)
+- Leipzig Corpus
+- CC-100 Corpus
+- Ai4Bharat ( CC- 0)
