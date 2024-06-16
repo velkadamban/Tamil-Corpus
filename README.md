@@ -11,3 +11,4 @@ This nTamil project aims to create a comprehensive and high-quality collection o
 - Leipzig Corpus
 - CC-100 Corpus
 - Ai4Bharat ( CC- 0)
+- Alpca-ora Translated for Tamil (GPL-3.0)
